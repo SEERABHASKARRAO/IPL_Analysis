@@ -1,0 +1,827 @@
+﻿team1,team2,toss_winner,toss_choice,man_of_the_match,stadium,place,team1_score,team2_score,winner,win_by_wickets,win_by_runs
+CSK,KKR,KKR,Field,Umesh Yadav,Wankhede Stadium,Mumbai,131,133,KKR,6,0
+MI,DC,DC,Field,Kuldeep Yadav,Brabourne Stadium,Mumbai,177,179,DC,4,0
+RCB,Punjab,Punjab,Field,Odean Smith,Dr DY Patil Sports Academy,Mumbai,205,208,Punjab,5,0
+RR,SRH,SRH,Field,Sanju Samson,Maharashtra Cricket Association Stadium,Pune,210,149,RR,0,61
+KKR,RCB,RCB,Field,Wanindu Hasaranga de Silva,Dr DY Patil Sports Academy,Mumbai,128,132,RCB,3,0
+CSK,LSG,LSG,Field,Evin Lewis,Brabourne Stadium,Mumbai,210,211,LSG,6,0
+Punjab,KKR,KKR,Field,Umesh Yadav,Wankhede Stadium,Mumbai,137,141,KKR,6,0
+RR,MI,MI,Field,Jos Buttler,Dr DY Patil Sports Academy,Mumbai,193,170,RR,0,23
+Punjab,CSK,CSK,Field,Liam Livingstone,Brabourne Stadium,Mumbai,180,126,Punjab,0,54
+LSG,SRH,SRH,Field,Avesh Khan,Dr DY Patil Sports Academy,Mumbai,169,157,LSG,0,12
+RR,RCB,RCB,Field,Dinesh Karthik,Wankhede Stadium,Mumbai,169,173,RCB,4,0
+MI,KKR,KKR,Field,Pat Cummins,Maharashtra Cricket Association Stadium,Pune,161,162,KKR,5,0
+DC,LSG,LSG,Field,Quinton de Kock,Dr DY Patil Sports Academy,Mumbai,149,155,LSG,6,0
+CSK,SRH,SRH,Field,Abhishek Sharma,Dr DY Patil Sports Academy,Mumbai,154,155,SRH,8,0
+MI,RCB,RCB,Field,Anuj Rawat,Maharashtra Cricket Association Stadium,Pune,151,152,RCB,7,0
+DC,KKR,KKR,Field,Kuldeep Yadav,Brabourne Stadium,Mumbai,215,171,DC,0,44
+RR,LSG,LSG,Field,Yuzvendra Chahal,Wankhede Stadium,Mumbai,165,162,RR,0,3
+CSK,RCB,RCB,Field,Shivam Dube,Dr DY Patil Sports Academy,Mumbai,216,193,CSK,0,23
+Punjab,MI,MI,Field,Mayank Agarwal,Maharashtra Cricket Association Stadium,Pune,198,186,Punjab,0,12
+KKR,SRH,SRH,Field,Rahul Tripathi,Brabourne Stadium,Mumbai,175,176,SRH,7,0
+LSG,MI,MI,Field,KL Rahul,Brabourne Stadium,Mumbai,199,181,LSG,0,18
+RCB,DC,DC,Field,Dinesh Karthik,Wankhede Stadium,Mumbai,189,173,RCB,0,16
+Punjab,SRH,SRH,Field,Umran Malik,Dr DY Patil Sports Academy,Mumbai,151,152,SRH,7,0
+RR,KKR,KKR,Field,Yuzvendra Chahal,Brabourne Stadium,Mumbai,217,210,RR,0,7
+RCB,LSG,LSG,Field,Faf du Plessis,Dr DY Patil Sports Academy,Mumbai,181,163,RCB,0,18
+Punjab,DC,DC,Field,Kuldeep Yadav,Brabourne Stadium,Mumbai,115,119,DC,9,0
+MI,CSK,CSK,Field,Mukesh Choudhary,Dr DY Patil Sports Academy,Mumbai,155,156,CSK,3,0
+RR,DC,DC,Field,Jos Buttler,Wankhede Stadium,Mumbai,222,207,RR,0,15
+RCB,SRH,SRH,Field,Marco Jansen,Brabourne Stadium,Mumbai,68,72,SRH,9,0
+LSG,MI,MI,Field,KL Rahul,Wankhede Stadium,Mumbai,168,132,LSG,0,36
+Punjab,CSK,CSK,Field,Shikhar Dhawan,Wankhede Stadium,Mumbai,187,176,Punjab,0,11
+RR,RCB,RCB,Field,Riyan Parag,Maharashtra Cricket Association Stadium,Pune,144,115,RR,0,29
+KKR,DC,DC,Field,Kuldeep Yadav,Wankhede Stadium,Mumbai,146,150,DC,4,0
+LSG,Punjab,Punjab,Field,Krunal Pandya,Maharashtra Cricket Association Stadium,Pune,153,133,LSG,0,20
+RR,MI,MI,Field,Suryakumar Yadav,Dr DY Patil Sports Academy,Mumbai,158,161,MI,5,0
+LSG,DC,LSG,Bat,Mohsin Khan,Wankhede Stadium,Mumbai,195,189,LSG,0,6
+CSK,SRH,SRH,Field,Ruturaj Gaikwad,Maharashtra Cricket Association Stadium,Pune,202,189,CSK,0,13
+RR,KKR,KKR,Field,Rinku Singh,Wankhede Stadium,Mumbai,152,158,KKR,7,0
+RCB,CSK,CSK,Field,Harshal Patel,Maharashtra Cricket Association Stadium,Pune,173,160,RCB,0,13
+DC,SRH,SRH,Field,David Warner,Brabourne Stadium,Mumbai,207,186,DC,0,21
+Punjab,RR,Punjab,Bat,Yashasvi Jaiswal,Wankhede Stadium,Mumbai,189,190,RR,6,0
+LSG,KKR,KKR,Field,Avesh Khan,Maharashtra Cricket Association Stadium,Pune,176,101,LSG,0,75
+RCB,SRH,RCB,Bat,Wanindu Hasaranga de Silva,Wankhede Stadium,Mumbai,192,125,RCB,0,67
+CSK,DC,DC,Field,Devon Conway,Dr DY Patil Sports Academy,Mumbai,208,117,CSK,0,91
+KKR,MI,MI,Field,Jasprit Bumrah,Dr DY Patil Sports Academy,Mumbai,165,113,KKR,0,52
+RR,DC,DC,Field,Mitchell Marsh,Dr DY Patil Sports Academy,Mumbai,160,161,DC,8,0
+CSK,MI,MI,Field,Daniel Sams,Wankhede Stadium,Mumbai,97,103,MI,5,0
+Punjab,RCB,RCB,Field,Jonny Bairstow,Brabourne Stadium,Mumbai,209,155,Punjab,0,54
+KKR,SRH,KKR,Bat,Andre Russell,Maharashtra Cricket Association Stadium,Pune,177,123,KKR,0,54
+RR,LSG,RR,Bat,Trent Boult,Brabourne Stadium,Mumbai,178,154,RR,0,24
+DC,Punjab,Punjab,Field,Shardul Thakur,Dr DY Patil Sports Academy,Mumbai,159,142,DC,0,17
+SRH,MI,MI,Field,Rahul Tripathi,Wankhede Stadium,Mumbai,193,190,SRH,0,3
+LSG,KKR,LSG,Bat,Quinton de Kock,Dr DY Patil Sports Academy,Mumbai,210,208,LSG,0,2
+CSK,RR,CSK,Bat,Ravichandran Ashwin,Brabourne Stadium,Mumbai,150,151,RR,5,0
+DC,MI,MI,Field,Jasprit Bumrah,Wankhede Stadium,Mumbai,159,160,MI,5,0
+SRH,Punjab,SRH,Bat,Harpreet Brar,Wankhede Stadium,Mumbai,157,160,Punjab,5,0
+RCB,LSG,LSG,Field,Rajat Patidar,Eden Gardens,Kolkata,207,193,RCB,0,14
+RCB,RR,RR,Field,Jos Buttler,Narendra Modi Stadium,Ahmedabad,157,161,RR,7,0
+MI,RCB,RCB,Field,Harshal Patel,MA Chidambaram Stadium,Chepauk,159,160,RCB,2,0
+CSK,DC,DC,Field,Shikhar Dhawan,Wankhede Stadium,Mumbai,188,190,DC,7,0
+KKR,SRH,SRH,Field,Nitish Rana,MA Chidambaram Stadium,Chepauk,187,177,KKR,0,10
+Punjab,RR,RR,Field,Sanju Samson,Wankhede Stadium,Mumbai,221,217,Punjab,0,4
+MI,KKR,KKR,Field,Rahul Chahar,MA Chidambaram Stadium,Chepauk,152,142,MI,0,10
+RCB,SRH,SRH,Field,Glenn Maxwell,MA Chidambaram Stadium,Chepauk,149,143,RCB,0,6
+DC,RR,RR,Field,Jaydev Unadkat,Wankhede Stadium,Mumbai,147,150,RR,3,0
+Punjab,CSK,CSK,Field,Deepak Chahar,Wankhede Stadium,Mumbai,106,107,CSK,6,0
+MI,SRH,MI,Bat,Kieron Pollard,MA Chidambaram Stadium,Chepauk,150,137,MI,0,13
+RCB,KKR,RCB,Bat,AB de Villiers,MA Chidambaram Stadium,Chepauk,204,166,RCB,0,38
+Punjab,DC,DC,Field,Shikhar Dhawan,Wankhede Stadium,Mumbai,195,198,DC,6,0
+CSK,RR,RR,Field,Moeen Ali,Wankhede Stadium,Mumbai,188,143,CSK,0,45
+MI,DC,MI,Bat,Amit Mishra,MA Chidambaram Stadium,Chepauk,137,138,DC,6,0
+Punjab,SRH,Punjab,Bat,Jonny Bairstow,MA Chidambaram Stadium,Chepauk,120,121,SRH,9,0
+CSK,KKR,KKR,Field,Faf du Plessis,Wankhede Stadium,Mumbai,220,202,CSK,0,18
+RR,RCB,RCB,Field,Devdutt Padikkal,Wankhede Stadium,Mumbai,177,181,RCB,10,0
+MI,Punjab,Punjab,Field,KL Rahul,MA Chidambaram Stadium,Chepauk,131,132,Punjab,9,0
+KKR,RR,RR,Field,Chris Morris,Wankhede Stadium,Mumbai,133,134,RR,6,0
+CSK,RCB,CSK,Bat,Ravindra Jadeja,Wankhede Stadium,Mumbai,191,122,CSK,0,69
+DC,SRH,DC,Bat,Prithvi Shaw,MA Chidambaram Stadium,Chepauk,159,159,Tied,0,0
+Punjab,KKR,KKR,Field,Eoin Morgan,Narendra Modi Stadium,Ahmedabad,123,126,KKR,5,0
+RCB,DC,DC,Field,AB de Villiers,Narendra Modi Stadium,Ahmedabad,171,170,RCB,0,1
+SRH,CSK,SRH,Bat,Ruturaj Gaikwad,Arun Jaitley Stadium,Delhi,171,173,CSK,7,0
+RR,MI,MI,Field,Quinton de Kock,Arun Jaitley Stadium,Delhi,171,172,MI,7,0
+KKR,DC,DC,Field,Prithvi Shaw,Narendra Modi Stadium,Ahmedabad,154,156,DC,7,0
+Punjab,RCB,RCB,Field,Harpreet Brar,Narendra Modi Stadium,Ahmedabad,179,145,Punjab,0,34
+CSK,MI,MI,Field,Kieron Pollard,Arun Jaitley Stadium,Delhi,218,219,MI,4,0
+RR,SRH,SRH,Field,Jos Buttler,Arun Jaitley Stadium,Delhi,220,165,RR,0,55
+Punjab,DC,DC,Field,Mayank Agarwal,Narendra Modi Stadium,Ahmedabad,166,167,DC,7,0
+CSK,MI,CSK,Bat,Ruturaj Gaikwad,Dubai International Cricket Stadium,UAE,156,136,CSK,0,20
+RCB,KKR,RCB,Bat,Varun Chakravarthy,Zayed Cricket Stadium,Abu Dhabi,92,94,KKR,9,0
+RR,Punjab,Punjab,Field,Kartik Tyagi,Dubai International Cricket Stadium,UAE,185,183,RR,0,2
+SRH,DC,SRH,Bat,Anrich Nortje,Dubai International Cricket Stadium,UAE,134,139,DC,8,0
+MI,KKR,KKR,Field,Sunil Narine,Zayed Cricket Stadium,Abu Dhabi,155,159,KKR,7,0
+RCB,CSK,CSK,Field,Dwayne Bravo,Sharjah Cricket Stadium,UAE,156,157,CSK,6,0
+DC,RR,RR,Field,Shreyas Iyer,Zayed Cricket Stadium,Abu Dhabi,154,121,DC,0,33
+Punjab,SRH,SRH,Field,Jason Holder,Sharjah Cricket Stadium,UAE,125,120,Punjab,0,5
+KKR,CSK,KKR,Bat,Ravindra Jadeja,Zayed Cricket Stadium,Abu Dhabi,171,172,CSK,2,0
+RCB,MI,MI,Field,Glenn Maxwell,Dubai International Cricket Stadium,UAE,165,111,RCB,0,54
+RR,SRH,RR,Bat,Jason Roy,Dubai International Cricket Stadium,UAE,164,167,SRH,7,0
+DC,KKR,KKR,Field,Sunil Narine,Sharjah Cricket Stadium,UAE,127,130,KKR,3,0
+Punjab,MI,MI,Field,Kieron Pollard,Zayed Cricket Stadium,Abu Dhabi,135,137,MI,6,0
+RR,RCB,RCB,Field,Yuzvendra Chahal,Dubai International Cricket Stadium,UAE,149,153,RCB,7,0
+SRH,CSK,CSK,Field,Josh Hazlewood,Sharjah Cricket Stadium,UAE,134,139,CSK,6,0
+KKR,Punjab,Punjab,Field,KL Rahul,Dubai International Cricket Stadium,UAE,165,168,Punjab,5,0
+MI,DC,DC,Field,Axar Patel,Sharjah Cricket Stadium,UAE,129,132,DC,4,0
+CSK,RR,RR,Field,Ruturaj Gaikwad,Zayed Cricket Stadium,Abu Dhabi,189,190,RR,7,0
+RCB,Punjab,RCB,Bat,Glenn Maxwell,Sharjah Cricket Stadium,UAE,164,158,RCB,0,6
+SRH,KKR,SRH,Bat,Shubman Gill,Dubai International Cricket Stadium,UAE,115,119,KKR,6,0
+CSK,DC,DC,Field,Axar Patel,Dubai International Cricket Stadium,UAE,136,139,DC,3,0
+RR,MI,MI,Field,Nathan Coulter-Nile,Sharjah Cricket Stadium,UAE,90,94,MI,8,0
+SRH,RCB,RCB,Field,Kane Williamson,Zayed Cricket Stadium,Abu Dhabi,141,137,SRH,0,4
+CSK,Punjab,Punjab,Field,KL Rahul,Dubai International Cricket Stadium,UAE,134,139,Punjab,6,0
+KKR,RR,RR,Field,Shivam Mavi,Sharjah Cricket Stadium,UAE,171,85,KKR,0,86
+DC,RCB,RCB,Field,Srikar Bharat,Dubai International Cricket Stadium,UAE,164,166,RCB,7,0
+MI,SRH,MI,Bat,Ishan Kishan,Zayed Cricket Stadium,Abu Dhabi,235,193,MI,0,42
+DC,CSK,CSK,Field,Ruturaj Gaikwad,Dubai International Cricket Stadium,UAE,172,173,CSK,4,0
+RCB,KKR,RCB,Bat,Sunil Narine,Sharjah Cricket Stadium,UAE,138,139,KKR,4,0
+DC,KKR,KKR,Field,Venkatesh Iyer,Sharjah Cricket Stadium,UAE,135,136,KKR,3,0
+CSK,KKR,KKR,Field,Faf du Plessis,Dubai International Cricket Stadium,UAE,192,165,CSK,0,27
+MI,CSK,CSK,Field,Ambati Rayudu,Zayed Cricket Stadium,Abu Dhabi,162,166,CSK,5,0
+DC,Punjab,Punjab,Field,Marcus Stoinis,Dubai International Cricket Stadium,UAE,157,157,Tied,0,0
+RCB,SRH,SRH,Field,Yuzvendra Chahal,Dubai International Cricket Stadium,UAE,163,153,RCB,0,10
+RR,CSK,CSK,Field,Sanju Samson,Sharjah Cricket Stadium,UAE,216,200,RR,0,16
+MI,KKR,KKR,Field,Rohit Sharma,Zayed Cricket Stadium,Abu Dhabi,195,146,MI,0,49
+Punjab,RCB,RCB,Field,KL Rahul,Dubai International Cricket Stadium,UAE,206,109,Punjab,0,97
+DC,CSK,CSK,Field,Prithvi Shaw,Dubai International Cricket Stadium,UAE,175,131,DC,0,44
+SRH,KKR,SRH,Bat,Shubman Gill,Zayed Cricket Stadium,Abu Dhabi,142,145,KKR,7,0
+Punjab,RR,RR,Field,Sanju Samson,Sharjah Cricket Stadium,UAE,223,226,RR,4,0
+RCB,MI,MI,Field,AB de Villiers,Dubai International Cricket Stadium,UAE,201,201,Tied,0,0
+SRH,DC,DC,Field,Rashid Khan,Zayed Cricket Stadium,Abu Dhabi,162,147,SRH,0,15
+KKR,RR,RR,Field,Shivam Mavi,Dubai International Cricket Stadium,UAE,174,137,KKR,0,37
+MI,Punjab,Punjab,Field,Kieron Pollard,Zayed Cricket Stadium,Abu Dhabi,191,143,MI,0,48
+SRH,CSK,SRH,Bat,Priyam Garg,Dubai International Cricket Stadium,UAE,164,157,SRH,0,7
+RR,RCB,RR,Bat,Yuzvendra Chahal,Zayed Cricket Stadium,Abu Dhabi,154,158,RCB,8,0
+DC,KKR,KKR,Field,Shreyas Iyer,Sharjah Cricket Stadium,UAE,228,210,DC,0,18
+MI,SRH,MI,Bat,Trent Boult,Sharjah Cricket Stadium,UAE,208,174,MI,0,34
+Punjab,CSK,Punjab,Bat,Shane Watson,Dubai International Cricket Stadium,UAE,178,181,CSK,10,0
+DC,RCB,RCB,Field,Axar Patel,Dubai International Cricket Stadium,UAE,196,137,DC,0,59
+MI,RR,MI,Bat,Suryakumar Yadav,Zayed Cricket Stadium,Abu Dhabi,193,136,MI,0,57
+KKR,CSK,KKR,Bat,Rahul Tripathi,Zayed Cricket Stadium,Abu Dhabi,167,157,KKR,0,10
+SRH,Punjab,SRH,Bat,Jonny Bairstow,Dubai International Cricket Stadium,UAE,201,132,SRH,0,69
+DC,RR,RR,Field,Ravichandran Ashwin,Sharjah Cricket Stadium,UAE,184,138,DC,0,46
+KKR,Punjab,KKR,Bat,Dinesh Karthik,Zayed Cricket Stadium,Abu Dhabi,164,162,KKR,0,2
+RCB,CSK,RCB,Bat,Virat Kohli,Dubai International Cricket Stadium,UAE,169,132,RCB,0,37
+SRH,RR,SRH,Bat,Rahul Tewatia,Dubai International Cricket Stadium,UAE,158,163,RR,5,0
+DC,MI,DC,Bat,Quinton de Kock,Zayed Cricket Stadium,Abu Dhabi,162,166,MI,5,0
+RCB,KKR,RCB,Bat,AB de Villiers,Sharjah Cricket Stadium,UAE,194,112,RCB,0,82
+CSK,SRH,CSK,Bat,Ravindra Jadeja,Dubai International Cricket Stadium,UAE,167,147,CSK,0,20
+DC,RR,DC,Bat,Anrich Nortje,Dubai International Cricket Stadium,UAE,161,148,DC,0,13
+RCB,Punjab,RCB,Bat,KL Rahul,Sharjah Cricket Stadium,UAE,171,177,Punjab,8,0
+KKR,MI,KKR,Bat,Quinton de Kock,Zayed Cricket Stadium,Abu Dhabi,148,149,MI,8,0
+RR,RCB,RR,Bat,AB de Villiers,Dubai International Cricket Stadium,UAE,177,179,RCB,7,0
+CSK,DC,CSK,Bat,Shikhar Dhawan,Sharjah Cricket Stadium,UAE,179,185,DC,5,0
+KKR,SRH,SRH,Field,Lockie Ferguson,Zayed Cricket Stadium,Abu Dhabi,163,163,Tied,0,0
+MI,Punjab,MI,Bat,KL Rahul,Dubai International Cricket Stadium,UAE,176,176,Tied,0,0
+CSK,RR,CSK,Bat,Jos Buttler,Zayed Cricket Stadium,Abu Dhabi,125,126,RR,7,0
+DC,Punjab,DC,Bat,Shikhar Dhawan,Dubai International Cricket Stadium,UAE,164,167,Punjab,5,0
+KKR,RCB,KKR,Bat,Mohammed Siraj,Zayed Cricket Stadium,Abu Dhabi,84,85,RCB,8,0
+RR,SRH,SRH,Field,Manish Pandey,Dubai International Cricket Stadium,UAE,154,156,SRH,8,0
+CSK,MI,MI,Field,Trent Boult,Sharjah Cricket Stadium,UAE,114,116,MI,10,0
+KKR,DC,DC,Field,Varun Chakravarthy,Zayed Cricket Stadium,Abu Dhabi,194,135,KKR,0,59
+Punjab,SRH,SRH,Field,Chris Jordan,Dubai International Cricket Stadium,UAE,126,114,Punjab,0,12
+RCB,CSK,RCB,Bat,Ruturaj Gaikwad,Dubai International Cricket Stadium,UAE,145,150,CSK,8,0
+MI,RR,MI,Bat,Ben Stokes,Zayed Cricket Stadium,Abu Dhabi,195,196,RR,8,0
+KKR,Punjab,Punjab,Field,Chris Gayle,Sharjah Cricket Stadium,UAE,149,150,Punjab,8,0
+SRH,DC,DC,Field,Wriddhiman Saha,Dubai International Cricket Stadium,UAE,219,131,SRH,0,88
+RCB,MI,MI,Field,Suryakumar Yadav,Zayed Cricket Stadium,Abu Dhabi,164,166,MI,5,0
+KKR,CSK,CSK,Field,Ruturaj Gaikwad,Dubai International Cricket Stadium,UAE,172,178,CSK,6,0
+Punjab,RR,RR,Field,Ben Stokes,Zayed Cricket Stadium,Abu Dhabi,185,186,RR,7,0
+DC,MI,MI,Field,Ishan Kishan,Dubai International Cricket Stadium,UAE,110,111,MI,9,0
+RCB,SRH,SRH,Field,Sandeep Sharma,Sharjah Cricket Stadium,UAE,120,121,SRH,5,0
+Punjab,CSK,CSK,Field,Ruturaj Gaikwad,Zayed Cricket Stadium,Abu Dhabi,153,154,CSK,9,0
+KKR,RR,RR,Field,Pat Cummins,Dubai International Cricket Stadium,UAE,191,131,KKR,0,60
+RCB,DC,DC,Field,Anrich Nortje,Zayed Cricket Stadium,Abu Dhabi,152,154,DC,6,0
+MI,SRH,SRH,Field,Shahbaz Nadeem,Sharjah Cricket Stadium,UAE,149,151,SRH,10,0
+MI,DC,DC,Field,Jasprit Bumrah,Dubai International Cricket Stadium,UAE,200,143,MI,0,57
+RCB,SRH,SRH,Field,Kane Williamson,Sheikh Zayed Stadium,Abu Dhabi,131,132,SRH,6,0
+DC,SRH,DC,Bat,Marcus Stoinis,Sheikh Zayed Stadium,Abu Dhabi,189,172,DC,0,17
+DC,MI,DC,Bat,Trent Boult,Dubai International Cricket Stadium,UAE,156,157,MI,5,0
+RCB,CSK,CSK,Field,Harbhajan Singh,MA Chidambaram Stadium,Chepauk,70,71,CSK,7,0
+SRH,KKR,KKR,Field,Andre Russell,Eden Gardens,Kolkata,181,183,KKR,6,0
+DC,MI,MI,Field,Rishabh Pant,Wankhede Stadium,Mumbai,213,176,DC,0,37
+Punjab,RR,RR,Field,Chris Gayle,Sawai Mansingh Stadium,Jaipur,184,170,Punjab,0,14
+DC,CSK,DC,Bat,Shane Watson,Feroz Shah Kotla,Delhi,147,150,CSK,6,0
+KKR,Punjab,Punjab,Field,Andre Russell,Eden Gardens,Kolkata,218,190,KKR,0,28
+MI,RCB,RCB,Field,Jasprit Bumrah,M Chinnaswamy Stadium,Bangalore,187,181,MI,0,6
+RR,SRH,RR,Bat,Rashid Khan,Rajiv Gandhi International Stadium,Uppal,198,201,SRH,5,0
+MI,Punjab,Punjab,Field,Mayank Agarwal,Punjab Cricket Association IS Bindra Stadium,Mohali,176,177,Punjab,8,0
+KKR,DC,DC,Field,Prithvi Shaw,Feroz Shah Kotla,Delhi,185,185,Tied,0,0
+SRH,RCB,RCB,Field,Jonny Bairstow,Rajiv Gandhi International Stadium,Uppal,231,113,SRH,0,118
+CSK,RR,RR,Field,MS Dhoni,MA Chidambaram Stadium,Chepauk,175,167,CSK,0,8
+Punjab,DC,DC,Field,Sam Curran,Punjab Cricket Association IS Bindra Stadium,Mohali,166,152,Punjab,0,14
+RCB,RR,RR,Field,Shreyas Gopal,Sawai Mansingh Stadium,Jaipur,158,164,RR,7,0
+MI,CSK,CSK,Field,Hardik Pandya,Wankhede Stadium,Mumbai,170,133,MI,0,37
+DC,SRH,SRH,Field,Jonny Bairstow,Feroz Shah Kotla,Delhi,129,131,SRH,5,0
+RCB,KKR,KKR,Field,Andre Russell,M Chinnaswamy Stadium,Bangalore,205,206,KKR,5,0
+CSK,Punjab,CSK,Bat,Harbhajan Singh,MA Chidambaram Stadium,Chepauk,160,138,CSK,0,22
+MI,SRH,SRH,Field,Alzarri Joseph,Rajiv Gandhi International Stadium,Uppal,136,96,MI,0,40
+RCB,DC,DC,Field,Kagiso Rabada,M Chinnaswamy Stadium,Bangalore,149,152,DC,4,0
+RR,KKR,KKR,Field,Harry Gurney,Sawai Mansingh Stadium,Jaipur,139,140,KKR,8,0
+SRH,Punjab,Punjab,Field,KL Rahul,Punjab Cricket Association IS Bindra Stadium,Mohali,150,151,Punjab,6,0
+KKR,CSK,CSK,Field,Deepak Chahar,MA Chidambaram Stadium,Chepauk,108,111,CSK,7,0
+Punjab,MI,MI,Field,Kieron Pollard,Wankhede Stadium,Mumbai,197,198,MI,3,0
+RR,CSK,CSK,Field,MS Dhoni,Sawai Mansingh Stadium,Jaipur,151,155,CSK,4,0
+KKR,DC,DC,Field,Shikhar Dhawan,Eden Gardens,Kolkata,178,180,DC,7,0
+MI,RR,RR,Field,Jos Buttler,Wankhede Stadium,Mumbai,187,188,RR,4,0
+Punjab,RCB,RCB,Field,AB de Villiers,Punjab Cricket Association IS Bindra Stadium,Mohali,173,174,RCB,8,0
+KKR,CSK,CSK,Field,Imran Tahir,Eden Gardens,Kolkata,161,162,CSK,5,0
+DC,SRH,SRH,Field,Keemo Paul,Rajiv Gandhi International Stadium,Uppal,155,116,DC,0,39
+RCB,MI,MI,Field,Lasith Malinga,Wankhede Stadium,Mumbai,171,172,MI,5,0
+Punjab,RR,RR,Field,Ravichandran Ashwin,Punjab Cricket Association IS Bindra Stadium,Mohali,182,170,Punjab,0,12
+CSK,SRH,CSK,Bat,David Warner,Rajiv Gandhi International Stadium,Uppal,132,137,SRH,6,0
+MI,DC,MI,Bat,Hardik Pandya,Feroz Shah Kotla,Delhi,168,128,MI,0,40
+RCB,KKR,KKR,Field,Virat Kohli,Eden Gardens,Kolkata,213,203,RCB,0,10
+MI,RR,RR,Field,Steven Smith,Sawai Mansingh Stadium,Jaipur,161,162,RR,5,0
+Punjab,DC,DC,Field,Shreyas Iyer,Feroz Shah Kotla,Delhi,163,166,DC,5,0
+KKR,SRH,SRH,Field,Khaleel Ahmed,Rajiv Gandhi International Stadium,Uppal,159,161,SRH,9,0
+RCB,CSK,CSK,Field,Parthiv Patel,M Chinnaswamy Stadium,Bangalore,161,160,RCB,0,1
+RR,DC,DC,Field,Rishabh Pant,Sawai Mansingh Stadium,Jaipur,191,193,DC,6,0
+SRH,CSK,CSK,Field,Shane Watson,MA Chidambaram Stadium,Chepauk,175,176,CSK,6,0
+RCB,Punjab,Punjab,Field,AB de Villiers,M Chinnaswamy Stadium,Bangalore,202,185,RCB,0,17
+KKR,RR,RR,Field,Varun Aaron,Eden Gardens,Kolkata,175,177,RR,3,0
+MI,CSK,CSK,Field,Rohit Sharma,MA Chidambaram Stadium,Chepauk,155,109,MI,0,46
+SRH,RR,RR,Field,Jaydev Unadkat,Sawai Mansingh Stadium,Jaipur,160,161,RR,7,0
+DC,RCB,DC,Bat,Shikhar Dhawan,Feroz Shah Kotla,Delhi,187,171,DC,0,16
+KKR,MI,MI,Field,Andre Russell,Eden Gardens,Kolkata,232,198,KKR,0,34
+SRH,Punjab,Punjab,Field,David Warner,Rajiv Gandhi International Stadium,Uppal,212,167,SRH,0,45
+CSK,DC,DC,Field,MS Dhoni,MA Chidambaram Stadium,Chepauk,179,99,CSK,0,80
+MI,SRH,MI,Bat,Jasprit Bumrah,Wankhede Stadium,Mumbai,162,162,Tied,0,0
+Punjab,KKR,KKR,Field,Shubman Gill,Punjab Cricket Association IS Bindra Stadium,Mohali,183,185,KKR,7,0
+RR,DC,RR,Bat,Amit Mishra,Feroz Shah Kotla,Delhi,115,121,DC,5,0
+SRH,RCB,RCB,Field,Shimron Hetmyer,M Chinnaswamy Stadium,Bangalore,175,178,RCB,4,0
+CSK,Punjab,Punjab,Field,KL Rahul,Punjab Cricket Association IS Bindra Stadium,Mohali,170,173,Punjab,6,0
+KKR,MI,MI,Field,Hardik Pandya,Wankhede Stadium,Mumbai,133,134,MI,9,0
+CSK,MI,CSK,Bat,Suryakumar Yadav,MA Chidambaram Stadium,Chepauk,131,132,MI,6,0
+SRH,DC,DC,Field,Rishabh Pant,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,Visakhapatnam,162,165,DC,2,0
+DC,CSK,CSK,Field,Faf du Plessis,Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium,Visakhapatnam,147,151,CSK,6,0
+MI,CSK,MI,Bat,Jasprit Bumrah,Rajiv Gandhi International Stadium,Uppal,149,148,MI,0,1
+MI,CSK,CSK,Field,Dwayne Bravo,Wankhede Stadium,Mumbai,165,169,CSK,1,0
+DC,Punjab,Punjab,Field,KL Rahul,Punjab Cricket Association IS Bindra Stadium,Mohali,166,167,Punjab,6,0
+RCB,KKR,KKR,Field,Sunil Narine,Eden Gardens,Kolkata,176,177,KKR,4,0
+RR,SRH,SRH,Field,Shikhar Dhawan,Rajiv Gandhi International Stadium,Uppal,125,127,SRH,9,0
+KKR,CSK,CSK,Field,Sam Billings,MA Chidambaram Stadium,Chepauk,202,205,CSK,5,0
+RR,DC,DC,Field,Sanju Samson,Sawai Mansingh Stadium,Jaipur,70,60,RR,0,10
+MI,SRH,SRH,Field,Rashid Khan,Rajiv Gandhi International Stadium,Uppal,147,151,SRH,1,0
+Punjab,RCB,RCB,Field,Umesh Yadav,M Chinnaswamy Stadium,Bengaluru,155,159,RCB,4,0
+MI,DC,DC,Field,Jason Roy,Wankhede Stadium,Mumbai,194,195,DC,7,0
+KKR,SRH,SRH,Field,Billy Stanlake,Eden Gardens,Kolkata,138,139,SRH,5,0
+RR,RCB,RCB,Field,Sanju Samson,M Chinnaswamy Stadium,Bengaluru,217,198,RR,0,19
+Punjab,CSK,CSK,Field,Chris Gayle,Punjab Cricket Association IS Bindra Stadium,Mohali,197,193,Punjab,0,4
+KKR,DC,DC,Field,Nitish Rana,Eden Gardens,Kolkata,200,129,KKR,0,71
+MI,RCB,RCB,Field,Rohit Sharma,Wankhede Stadium,Mumbai,213,167,MI,0,46
+RR,KKR,KKR,Field,Nitish Rana,Sawai Mansingh Stadium,Jaipur,160,163,KKR,7,0
+Punjab,SRH,Punjab,Bat,Chris Gayle,Punjab Cricket Association IS Bindra Stadium,Mohali,193,178,Punjab,0,15
+CSK,RR,RR,Field,Shane Watson,Maharashtra Cricket Association Stadium,Pune,204,140,CSK,0,64
+KKR,Punjab,Punjab,Field,KL Rahul,Eden Gardens,Kolkata,191,126,Punjab,9,0
+DC,RCB,RCB,Field,AB de Villiers,M Chinnaswamy Stadium,Bengaluru,174,176,RCB,6,0
+CSK,SRH,SRH,Field,Ambati Rayudu,Rajiv Gandhi International Stadium,Uppal,182,178,CSK,0,4
+MI,RR,MI,Bat,Jofra Archer,Sawai Mansingh Stadium,Jaipur,167,168,RR,3,0
+Punjab,DC,DC,Field,Ankit Rajpoot,Feroz Shah Kotla,Delhi,143,139,Punjab,0,4
+SRH,MI,MI,Field,Rashid Khan,Wankhede Stadium,Mumbai,118,87,SRH,0,31
+RCB,CSK,CSK,Field,MS Dhoni,M Chinnaswamy Stadium,Bengaluru,205,207,CSK,5,0
+SRH,Punjab,Punjab,Field,Ankit Rajpoot,Rajiv Gandhi International Stadium,Uppal,132,119,SRH,0,13
+DC,KKR,KKR,Field,Shreyas Iyer,Feroz Shah Kotla,Delhi,219,164,DC,0,55
+CSK,MI,MI,Field,Rohit Sharma,Maharashtra Cricket Association Stadium,Pune,169,170,MI,8,0
+SRH,RR,SRH,Bat,Kane Williamson,Sawai Mansingh Stadium,Jaipur,151,140,SRH,0,11
+RCB,KKR,KKR,Field,Chris Lynn,M Chinnaswamy Stadium,Bengaluru,175,176,KKR,6,0
+CSK,DC,DC,Field,Shane Watson,Maharashtra Cricket Association Stadium,Pune,211,198,CSK,0,13
+RCB,MI,MI,Field,Tim Southee,M Chinnaswamy Stadium,Bengaluru,167,153,RCB,0,14
+DC,RR,RR,Field,Rishabh Pant,Feroz Shah Kotla,Delhi,150,146,DC,0,4
+CSK,KKR,KKR,Field,Sunil Narine,Eden Gardens,Kolkata,177,180,KKR,6,0
+Punjab,MI,MI,Field,Suryakumar Yadav,Holkar Cricket Stadium,Indore,174,176,MI,6,0
+RCB,CSK,CSK,Field,Ravindra Jadeja,Maharashtra Cricket Association Stadium,Pune,127,128,CSK,6,0
+DC,SRH,DC,Bat,Rashid Khan,Rajiv Gandhi International Stadium,Uppal,163,164,SRH,7,0
+MI,KKR,KKR,Field,Hardik Pandya,Wankhede Stadium,Mumbai,181,168,MI,0,13
+RR,Punjab,Punjab,Field,Mujeeb Ur Rahman,Holkar Cricket Stadium,Indore,152,155,Punjab,6,0
+SRH,RCB,RCB,Field,Kane Williamson,Rajiv Gandhi International Stadium,Uppal,146,141,SRH,0,5
+RR,Punjab,RR,Bat,Jos Buttler,Sawai Mansingh Stadium,Jaipur,158,143,RR,0,15
+MI,KKR,KKR,Field,Ishan Kishan,Eden Gardens,Kolkata,210,108,MI,0,102
+DC,SRH,DC,Bat,Shikhar Dhawan,Feroz Shah Kotla,Delhi,187,191,SRH,9,0
+CSK,RR,CSK,Bat,Jos Buttler,Sawai Mansingh Stadium,Jaipur,176,177,RR,4,0
+KKR,Punjab,Punjab,Field,Sunil Narine,Holkar Cricket Stadium,Indore,245,214,KKR,0,31
+DC,RCB,RCB,Field,AB de Villiers,Feroz Shah Kotla,Delhi,181,187,RCB,5,0
+SRH,CSK,CSK,Field,Ambati Rayudu,Maharashtra Cricket Association Stadium,Pune,179,180,CSK,8,0
+MI,RR,RR,Field,Jos Buttler,Wankhede Stadium,Mumbai,168,171,RR,7,0
+Punjab,RCB,RCB,Field,Umesh Yadav,Holkar Cricket Stadium,Indore,88,92,RCB,10,0
+RR,KKR,KKR,Field,Kuldeep Yadav,Eden Gardens,Kolkata,142,145,KKR,6,0
+MI,Punjab,Punjab,Field,Jasprit Bumrah,Wankhede Stadium,Mumbai,186,183,MI,0,3
+RCB,SRH,SRH,Field,AB de Villiers,M Chinnaswamy Stadium,Bengaluru,218,204,RCB,0,14
+DC,CSK,CSK,Field,Harshal Patel,Feroz Shah Kotla,Delhi,162,128,DC,0,34
+RR,RCB,RR,Bat,Shreyas Gopal,Sawai Mansingh Stadium,Jaipur,164,134,RR,0,30
+SRH,KKR,SRH,Bat,Chris Lynn,Rajiv Gandhi International Stadium,Uppal,172,173,KKR,5,0
+DC,MI,DC,Bat,Amit Mishra,Feroz Shah Kotla,Delhi,174,163,DC,0,11
+Punjab,CSK,CSK,Field,Lungi Ngidi,Maharashtra Cricket Association Stadium,Pune,153,159,CSK,5,0
+SRH,CSK,CSK,Field,Faf du Plessis,Wankhede Stadium,Mumbai,139,140,CSK,2,0
+KKR,RR,RR,Field,Andre Russell,Eden Gardens,Kolkata,169,144,KKR,0,25
+SRH,KKR,KKR,Field,Rashid Khan,Eden Gardens,Kolkata,174,160,SRH,0,14
+SRH,CSK,CSK,Field,Shane Watson,Wankhede Stadium,Mumbai,178,181,CSK,8,0
+SRH,RCB,RCB,Field,Yuvraj Singh,Rajiv Gandhi International Stadium,Uppal,207,172,SRH,0,35
+RCB,DC,RCB,Bat,Kedar Jadhav,M Chinnaswamy Stadium,Bangalore,157,142,RCB,0,15
+KKR,MI,MI,Field,Nitish Rana,Wankhede Stadium,Mumbai,178,180,MI,4,0
+RCB,Punjab,RCB,Bat,Axar Patel,Holkar Cricket Stadium,Indore,148,150,Punjab,8,0
+SRH,MI,MI,Field,Jasprit Bumrah,Wankhede Stadium,Mumbai,158,159,MI,4,0
+Punjab,KKR,KKR,Field,Sunil Narine,Eden Gardens,Kolkata,170,171,KKR,8,0
+RCB,MI,MI,Field,Kieron Pollard,M Chinnaswamy Stadium,Bangalore,142,145,MI,4,0
+KKR,SRH,SRH,Field,Robin Uthappa,Eden Gardens,Kolkata,172,155,KKR,0,17
+DC,Punjab,DC,Bat,Corey Anderson,Feroz Shah Kotla,Delhi,188,137,DC,0,51
+DC,KKR,DC,Bat,Nathan Coulter-Nile,Feroz Shah Kotla,Delhi,168,169,KKR,4,0
+SRH,Punjab,Punjab,Field,Bhuvneshwar Kumar,Rajiv Gandhi International Stadium,Uppal,159,154,SRH,0,5
+SRH,DC,SRH,Bat,Kane Williamson,Rajiv Gandhi International Stadium,Uppal,191,176,SRH,0,15
+Punjab,MI,MI,Field,Jos Buttler,Holkar Cricket Stadium,Indore,198,199,MI,8,0
+MI,DC,DC,Field,Mitchell McClenaghan,Wankhede Stadium,Mumbai,142,128,MI,0,14
+KKR,RCB,RCB,Field,Nathan Coulter-Nile,Eden Gardens,Kolkata,131,49,KKR,0,82
+DC,KKR,KKR,Field,Gautam Gambhir,Eden Gardens,Kolkata,160,161,KKR,7,0
+SRH,Punjab,Punjab,Field,Rashid Khan,Punjab Cricket Association IS Bindra Stadium,Mohali,207,181,SRH,0,26
+DC,Punjab,Punjab,Field,Sandeep Sharma,Punjab Cricket Association IS Bindra Stadium,Mohali,67,68,Punjab,10,0
+SRH,KKR,KKR,Field,David Warner,Rajiv Gandhi International Stadium,Uppal,209,161,SRH,0,48
+RCB,MI,RCB,Bat,Rohit Sharma,Wankhede Stadium,Mumbai,162,165,MI,5,0
+SRH,DC,DC,Field,Mohammed Shami,Feroz Shah Kotla,Delhi,185,189,DC,6,0
+Punjab,RCB,RCB,Field,Sandeep Sharma,M Chinnaswamy Stadium,Bangalore,138,119,Punjab,0,19
+MI,DC,DC,Field,Lendl Simmons,Feroz Shah Kotla,Delhi,212,66,MI,0,146
+RCB,KKR,KKR,Field,Sunil Narine,M Chinnaswamy Stadium,Bangalore,158,159,KKR,6,0
+MI,SRH,MI,Bat,Shikhar Dhawan,Rajiv Gandhi International Stadium,Uppal,138,140,SRH,7,0
+Punjab,KKR,KKR,Field,Mohit Sharma,Punjab Cricket Association IS Bindra Stadium,Mohali,167,153,Punjab,0,14
+Punjab,MI,MI,Field,Wriddhiman Saha,Wankhede Stadium,Mumbai,230,223,Punjab,0,7
+MI,KKR,KKR,Field,Ambati Rayudu,Eden Gardens,Kolkata,173,164,MI,0,9
+RCB,DC,RCB,Bat,Harshal Patel,Feroz Shah Kotla,Delhi,161,151,RCB,0,10
+SRH,KKR,KKR,Field,Nathan Coulter-Nile,M Chinnaswamy Stadium,Bangalore,128,48,KKR,7,0
+KKR,MI,MI,Field,Karn Sharma,M Chinnaswamy Stadium,Bangalore,107,111,MI,6,0
+DC,KKR,KKR,Field,Andre Russell,Eden Gardens,Kolkata,98,99,KKR,9,0
+RCB,SRH,SRH,Field,AB de Villiers,M Chinnaswamy Stadium,Bangalore,227,182,RCB,0,45
+KKR,MI,MI,Field,Rohit Sharma,Eden Gardens,Kolkata,187,188,MI,6,0
+Punjab,DC,DC,Field,Amit Mishra,Feroz Shah Kotla,Delhi,111,113,DC,8,0
+SRH,KKR,SRH,Bat,Gautam Gambhir,Rajiv Gandhi International Stadium,Uppal,142,146,KKR,8,0
+RCB,DC,DC,Field,Quinton de Kock,M Chinnaswamy Stadium,Bangalore,191,192,DC,7,0
+MI,SRH,SRH,Field,David Warner,Rajiv Gandhi International Stadium,Uppal,142,145,SRH,7,0
+Punjab,KKR,KKR,Field,Robin Uthappa,Punjab Cricket Association IS Bindra Stadium,Mohali,138,141,KKR,6,0
+RCB,MI,MI,Field,Rohit Sharma,Wankhede Stadium,Mumbai,170,171,MI,6,0
+DC,MI,MI,Field,Sanju Samson,Feroz Shah Kotla,Delhi,164,154,DC,0,10
+Punjab,SRH,SRH,Field,Mustafizur Rahman,Rajiv Gandhi International Stadium,Uppal,143,146,SRH,5,0
+MI,Punjab,Punjab,Field,Parthiv Patel,Punjab Cricket Association IS Bindra Stadium,Mohali,189,164,MI,0,25
+KKR,MI,MI,Field,Rohit Sharma,Wankhede Stadium,Mumbai,174,178,MI,6,0
+DC,KKR,KKR,Field,Carlos Brathwaite,Feroz Shah Kotla,Delhi,186,159,DC,0,27
+SRH,RCB,RCB,Field,David Warner,Rajiv Gandhi International Stadium,Uppal,194,179,SRH,0,15
+RCB,KKR,KKR,Field,Andre Russell,M Chinnaswamy Stadium,Bangalore,185,189,KKR,5,0
+KKR,Punjab,Punjab,Field,Andre Russell,Eden Gardens,Kolkata,164,157,KKR,0,7
+Punjab,DC,DC,Field,Marcus Stoinis,Punjab Cricket Association IS Bindra Stadium,Mohali,181,172,Punjab,0,9
+SRH,MI,MI,Field,Ashish Nehra,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,177,92,SRH,0,85
+RCB,Punjab,Punjab,Field,Shane Watson,Punjab Cricket Association IS Bindra Stadium,Mohali,175,174,RCB,0,1
+RCB,MI,MI,Field,Krunal Pandya,M Chinnaswamy Stadium,Bangalore,151,153,MI,6,0
+SRH,DC,DC,Field,Chris Morris,Rajiv Gandhi International Stadium,Uppal,146,150,DC,7,0
+MI,Punjab,MI,Bat,Marcus Stoinis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,124,127,Punjab,7,0
+Punjab,SRH,Punjab,Bat,Hashim Amla,Punjab Cricket Association IS Bindra Stadium,Mohali,179,180,SRH,7,0
+MI,DC,DC,Field,Krunal Pandya,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,206,126,MI,0,80
+KKR,RCB,RCB,Field,Virat Kohli,Eden Gardens,Kolkata,183,186,RCB,9,0
+RCB,Punjab,Punjab,Field,Virat Kohli,M Chinnaswamy Stadium,Bangalore,202,120,RCB,0,82
+SRH,DC,DC,Field,Karun Nair,Shaheed Veer Narayan Singh International Stadium,Raipur,158,161,DC,6,0
+KKR,SRH,SRH,Field,Yusuf Pathan,Eden Gardens,Kolkata,171,149,KKR,0,22
+DC,RCB,RCB,Field,Virat Kohli,Shaheed Veer Narayan Singh International Stadium,Raipur,138,139,RCB,6,0
+SRH,KKR,KKR,Field,Moises Henriques,Feroz Shah Kotla,Delhi,162,140,SRH,0,22
+SRH,RCB,SRH,Bat,Ben Cutting,M Chinnaswamy Stadium,Bangalore,208,200,SRH,0,8
+MI,KKR,KKR,Field,Morne Morkel,Eden Gardens,Kolkata,168,170,KKR,7,0
+CSK,DC,DC,Field,Ashish Nehra,MA Chidambaram Stadium,Chepauk,150,149,CSK,0,1
+RR,Punjab,Punjab,Field,James Faulkner,Maharashtra Cricket Association Stadium,Pune,162,136,RR,0,26
+CSK,SRH,CSK,Bat,Brendon McCullum,MA Chidambaram Stadium,Chepauk,209,164,CSK,0,45
+KKR,RCB,RCB,Field,Chris Gayle,Eden Gardens,Kolkata,177,179,RCB,3,0
+DC,RR,RR,Field,Deepak Hooda,Feroz Shah Kotla,Delhi,184,186,RR,3,0
+Punjab,MI,MI,Field,George Bailey,Wankhede Stadium,Mumbai,177,159,Punjab,0,18
+RCB,SRH,SRH,Field,David Warner,M Chinnaswamy Stadium,Bangalore,166,172,SRH,8,0
+MI,RR,MI,Bat,Steven Smith,Sardar Patel Stadium,Motera,164,165,RR,7,0
+Punjab,DC,Punjab,Bat,Mayank Agarwal,Maharashtra Cricket Association Stadium,Pune,165,169,DC,5,0
+SRH,RR,RR,Field,Ajinkya Rahane,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,127,131,RR,6,0
+MI,CSK,MI,Bat,Ashish Nehra,Wankhede Stadium,Mumbai,183,189,CSK,6,0
+DC,SRH,DC,Bat,Jean-Paul Duminy,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,167,163,DC,0,4
+Punjab,KKR,KKR,Field,Andre Russell,Maharashtra Cricket Association Stadium,Pune,155,159,KKR,4,0
+CSK,RR,CSK,Bat,Ajinkya Rahane,Sardar Patel Stadium,Motera,156,157,RR,8,0
+MI,RCB,RCB,Field,Harbhajan Singh,M Chinnaswamy Stadium,Bangalore,209,191,MI,0,18
+DC,KKR,KKR,Field,Umesh Yadav,Feroz Shah Kotla,Delhi,146,147,KKR,6,0
+RR,Punjab,Punjab,Field,Shaun Marsh,Sardar Patel Stadium,Motera,191,191,Tied,0,0
+SRH,KKR,KKR,Field,David Warner,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,176,101,SRH,0,16
+CSK,RCB,RCB,Field,Suresh Raina,M Chinnaswamy Stadium,Bangalore,181,154,CSK,0,27
+DC,MI,MI,Field,Shreyas Iyer,Feroz Shah Kotla,Delhi,190,153,DC,0,37
+RR,RCB,RCB,Field,Mitchell Starc,Sardar Patel Stadium,Motera,130,134,RCB,9,0
+MI,SRH,MI,Bat,Lasith Malinga,Wankhede Stadium,Mumbai,157,137,MI,0,20
+CSK,Punjab,CSK,Bat,Brendon McCullum,MA Chidambaram Stadium,Chepauk,192,95,CSK,0,97
+DC,RCB,RCB,Field,Varun Aaron,Feroz Shah Kotla,Delhi,95,99,RCB,10,0
+SRH,Punjab,Punjab,Field,Trent Boult,Punjab Cricket Association Stadium,Mohali,150,130,SRH,0,20
+CSK,KKR,KKR,Field,Dwayne Bravo,MA Chidambaram Stadium,Chepauk,134,132,CSK,0,2
+CSK,KKR,KKR,Field,Andre Russell,Eden Gardens,Kolkata,165,169,KKR,7,0
+Punjab,DC,DC,Field,Nathan Coulter-Nile,Feroz Shah Kotla,Delhi,118,119,DC,9,0
+MI,RR,RR,Field,Ambati Rayudu,Wankhede Stadium,Mumbai,187,179,MI,0,8
+KKR,RCB,RCB,Field,Mandeep Singh,M Chinnaswamy Stadium,Bangalore,113,115,RCB,7,0
+SRH,CSK,CSK,Field,David Warner,Rajiv Gandhi International Stadium,Uppal,192,170,SRH,0,22
+MI,Punjab,MI,Bat,Lendl Simmons,Punjab Cricket Association Stadium,Mohali,172,149,MI,0,23
+RR,DC,DC,Field,Ajinkya Rahane,Brabourne Stadium,Mumbai,189,175,RR,0,14
+CSK,RCB,CSK,Bat,Suresh Raina,MA Chidambaram Stadium,Chepauk,148,124,CSK,0,24
+KKR,SRH,SRH,Field,Umesh Yadav,Eden Gardens,Kolkata,167,132,KKR,0,35
+DC,MI,DC,Bat,Harbhajan Singh,Wankhede Stadium,Mumbai,152,153,MI,5,0
+RCB,Punjab,Punjab,Field,Chris Gayle,M Chinnaswamy Stadium,Bangalore,226,88,RCB,0,138
+SRH,RR,RR,Field,Eoin Morgan,Brabourne Stadium,Mumbai,201,194,SRH,0,7
+KKR,DC,KKR,Bat,Piyush Chawla,Eden Gardens,Kolkata,171,158,KKR,0,13
+CSK,MI,CSK,Bat,Hardik Pandya,MA Chidambaram Stadium,Chepauk,158,159,MI,6,0
+Punjab,KKR,Punjab,Bat,Andre Russell,Eden Gardens,Kolkata,183,184,KKR,1,0
+SRH,DC,SRH,Bat,Moises Henriques,Shaheed Veer Narayan Singh International Stadium,Raipur,163,157,SRH,0,6
+RCB,MI,RCB,Bat,AB de Villiers,Wankhede Stadium,Mumbai,235,196,RCB,0,39
+CSK,RR,CSK,Bat,Ravindra Jadeja,MA Chidambaram Stadium,Chepauk,157,145,CSK,0,12
+SRH,Punjab,SRH,Bat,David Warner,Rajiv Gandhi International Stadium,Uppal,185,180,SRH,0,5
+CSK,DC,CSK,Bat,Zaheer Khan,Shaheed Veer Narayan Singh International Stadium,Raipur,119,120,DC,6,0
+Punjab,RCB,RCB,Field,Axar Patel,Punjab Cricket Association Stadium,Mohali,106,84,Punjab,0,22
+MI,KKR,KKR,Field,Hardik Pandya,Wankhede Stadium,Mumbai,171,166,MI,0,5
+SRH,RCB,SRH,Bat,Virat Kohli,Rajiv Gandhi International Stadium,Uppal,82,83,RCB,6,0
+Punjab,CSK,Punjab,Bat,Pawan Negi,Punjab Cricket Association Stadium,Mohali,130,134,CSK,7,0
+RR,KKR,RR,Bat,Shane Watson,Brabourne Stadium,Mumbai,199,190,RR,0,9
+SRH,MI,SRH,Bat,Mitchell McClenaghan,Rajiv Gandhi International Stadium,Uppal,113,114,MI,9,0
+MI,CSK,MI,Bat,Kieron Pollard,Wankhede Stadium,Mumbai,187,162,MI,0,25
+RCB,RR,RCB,Bat,AB de Villiers,Maharashtra Cricket Association Stadium,Pune,180,109,RCB,0,71
+RCB,CSK,CSK,Field,Ashish Nehra,JSCA International Stadium Complex,Ranchi,139,140,CSK,3,0
+MI,CSK,CSK,Field,Rohit Sharma,Eden Gardens,Kolkata,202,161,MI,0,41
+KKR,MI,KKR,Bat,Jacques Kallis,Sheikh Zayed Stadium,Abu Dhabi,163,122,KKR,0,41
+DC,RCB,RCB,Field,Yuzvendra Chahal,Sharjah Cricket Stadium,UAE,145,146,RCB,8,0
+CSK,Punjab,CSK,Bat,Glenn Maxwell,Sheikh Zayed Stadium,Abu Dhabi,205,206,Punjab,6,0
+SRH,RR,RR,Field,Ajinkya Rahane,Sheikh Zayed Stadium,Abu Dhabi,133,135,RR,4,0
+MI,RCB,RCB,Field,Parthiv Patel,Dubai International Cricket Stadium,UAE,115,116,RCB,7,0
+KKR,DC,KKR,Bat,Jean-Paul Duminy,Dubai International Cricket Stadium,UAE,166,167,DC,4,0
+RR,Punjab,Punjab,Field,Glenn Maxwell,Sharjah Cricket Stadium,UAE,191,193,Punjab,7,0
+CSK,DC,CSK,Bat,Suresh Raina,Sheikh Zayed Stadium,Abu Dhabi,177,84,CSK,0,93
+Punjab,SRH,SRH,Field,Glenn Maxwell,Sharjah Cricket Stadium,UAE,193,121,Punjab,0,72
+CSK,RR,RR,Field,Ravindra Jadeja,Dubai International Cricket Stadium,UAE,140,133,CSK,0,7
+KKR,RCB,RCB,Field,Chris Lynn,Sharjah Cricket Stadium,UAE,150,148,KKR,0,2
+SRH,DC,SRH,Bat,Aaron Finch,Dubai International Cricket Stadium,UAE,184,180,SRH,0,4
+MI,CSK,MI,Bat,Mohit Sharma,Dubai International Cricket Stadium,UAE,141,142,CSK,7,0
+RCB,RR,RR,Field,Pravin Tambe,Sheikh Zayed Stadium,Abu Dhabi,70,71,RR,6,0
+Punjab,KKR,KKR,Field,Sandeep Sharma,Sheikh Zayed Stadium,Abu Dhabi,132,109,Punjab,0,23
+MI,DC,MI,Bat,Murali Vijay,Sharjah Cricket Stadium,UAE,125,126,DC,6,0
+SRH,CSK,SRH,Bat,Dwayne Smith,Sharjah Cricket Stadium,UAE,145,146,CSK,5,0
+RCB,Punjab,Punjab,Field,Sandeep Sharma,Dubai International Cricket Stadium,UAE,124,127,Punjab,5,0
+RR,KKR,RR,Bat,James Faulkner,Sheikh Zayed Stadium,Abu Dhabi,152,152,Tied,0,0
+SRH,MI,MI,Field,Bhuvneshwar Kumar,Dubai International Cricket Stadium,UAE,172,157,SRH,0,15
+CSK,KKR,CSK,Bat,Ravindra Jadeja,JSCA International Stadium Complex,Ranchi,148,114,CSK,0,34
+Punjab,MI,Punjab,Bat,Corey Anderson,Wankhede Stadium,Mumbai,168,170,MI,5,0
+DC,RR,RR,Field,Karun Nair,Feroz Shah Kotla,Delhi,152,156,RR,7,0
+SRH,RCB,RCB,Field,AB de Villiers,M Chinnaswamy Stadium,Bangalore,155,158,RCB,4,0
+RR,KKR,KKR,Field,Pravin Tambe,Sardar Patel Stadium,Motera,170,160,RR,0,10
+DC,CSK,CSK,Field,Dwayne Smith,Feroz Shah Kotla,Delhi,178,181,CSK,8,0
+MI,RCB,RCB,Field,Rohit Sharma,Wankhede Stadium,Mumbai,187,168,MI,0,19
+DC,KKR,DC,Bat,Gautam Gambhir,Feroz Shah Kotla,Delhi,160,161,KKR,8,0
+Punjab,CSK,CSK,Field,Glenn Maxwell,Barabati Stadium,Cuttack,231,187,Punjab,0,44
+SRH,RR,RR,Field,Bhuvneshwar Kumar,Sardar Patel Stadium,Motera,134,102,SRH,0,32
+Punjab,RCB,RCB,Field,Sandeep Sharma,M Chinnaswamy Stadium,Bangalore,198,166,Punjab,0,32
+DC,SRH,SRH,Field,Dale Steyn,Feroz Shah Kotla,Delhi,143,44,SRH,8,0
+MI,CSK,CSK,Field,Dwayne Smith,Wankhede Stadium,Mumbai,157,160,CSK,4,0
+Punjab,KKR,KKR,Field,Gautam Gambhir,Barabati Stadium,Cuttack,149,150,KKR,9,0
+RCB,RR,RCB,Bat,James Faulkner,M Chinnaswamy Stadium,Bangalore,190,191,RR,5,0
+SRH,MI,SRH,Bat,Ambati Rayudu,Rajiv Gandhi International Stadium,Uppal,157,160,MI,7,0
+RR,CSK,RR,Bat,Ravindra Jadeja,JSCA International Stadium Complex,Ranchi,148,149,CSK,5,0
+RCB,DC,DC,Field,Yuvraj Singh,M Chinnaswamy Stadium,Bangalore,186,170,RCB,0,16
+SRH,Punjab,Punjab,Field,Wriddhiman Saha,Rajiv Gandhi International Stadium,Uppal,205,211,Punjab,6,0
+MI,KKR,KKR,Field,Robin Uthappa,Barabati Stadium,Cuttack,141,142,KKR,6,0
+RR,DC,DC,Field,Ajinkya Rahane,Sardar Patel Stadium,Motera,201,139,RR,0,62
+CSK,RCB,CSK,Bat,AB de Villiers,JSCA International Stadium Complex,Ranchi,138,142,RCB,5,0
+SRH,KKR,SRH,Bat,Umesh Yadav,Rajiv Gandhi International Stadium,Uppal,142,146,KKR,7,0
+MI,RR,MI,Bat,Michael Hussey,Sardar Patel Stadium,Motera,178,153,MI,0,25
+DC,Punjab,Punjab,Field,Axar Patel,Feroz Shah Kotla,Delhi,164,165,Punjab,4,0
+RCB,SRH,RCB,Bat,David Warner,Rajiv Gandhi International Stadium,Uppal,160,161,SRH,7,0
+CSK,KKR,KKR,Field,Robin Uthappa,Eden Gardens,Kolkata,154,156,KKR,8,0
+Punjab,MI,MI,Field,Lendl Simmons,Punjab Cricket Association Stadium,Mohali,156,159,MI,7,0
+KKR,RCB,RCB,Field,Robin Uthappa,Eden Gardens,Kolkata,195,165,KKR,0,30
+CSK,SRH,SRH,Field,David Warner,JSCA International Stadium Complex,Ranchi,185,189,SRH,6,0
+MI,DC,DC,Field,Michael Hussey,Wankhede Stadium,Mumbai,173,158,MI,0,15
+Punjab,RR,RR,Field,Shaun Marsh,Punjab Cricket Association Stadium,Mohali,179,163,Punjab,0,16
+RCB,CSK,CSK,Field,MS Dhoni,M Chinnaswamy Stadium,Bangalore,154,160,CSK,8,0
+SRH,KKR,KKR,Field,Yusuf Pathan,Eden Gardens,Kolkata,160,161,KKR,4,0
+DC,Punjab,Punjab,Field,Manan Vohra,Punjab Cricket Association Stadium,Mohali,115,119,Punjab,7,0
+RR,MI,MI,Field,Corey Anderson,Wankhede Stadium,Mumbai,189,195,MI,5,0
+KKR,Punjab,Punjab,Field,Umesh Yadav,Eden Gardens,Kolkata,163,135,KKR,0,28
+MI,CSK,CSK,Field,Suresh Raina,Brabourne Stadium,Mumbai,173,176,CSK,7,0
+Punjab,CSK,CSK,Field,Virender Sehwag,Wankhede Stadium,Mumbai,226,202,Punjab,0,24
+Punjab,KKR,KKR,Field,Manish Pandey,M Chinnaswamy Stadium,Bangalore,199,200,KKR,3,0
+DC,KKR,KKR,Field,Sunil Narine,Eden Gardens,Kolkata,128,129,KKR,6,0
+RCB,MI,MI,Field,Chris Gayle,M Chinnaswamy Stadium,Bangalore,156,154,RCB,0,2
+RR,DC,RR,Bat,Rahul Dravid,Feroz Shah Kotla,Delhi,165,160,RR,0,5
+MI,CSK,MI,Bat,Kieron Pollard,MA Chidambaram Stadium,Chepauk,148,139,MI,0,9
+RCB,SRH,RCB,Bat,Hanuma Vihari,Rajiv Gandhi International Stadium,Uppal,130,130,Tied,0,0
+RR,KKR,KKR,Field,Siddharth Trivedi,Sawai Mansingh Stadium,Jaipur,144,125,RR,0,19
+SRH,RCB,SRH,Bat,Virat Kohli,M Chinnaswamy Stadium,Bangalore,161,162,RCB,7,0
+MI,DC,MI,Bat,Dinesh Karthik,Wankhede Stadium,Mumbai,209,165,MI,0,44
+Punjab,CSK,CSK,Field,Michael Hussey,Punjab Cricket Association Stadium,Mohali,138,139,CSK,10,0
+KKR,RCB,RCB,Field,Chris Gayle,M Chinnaswamy Stadium,Bangalore,154,158,RCB,8,0
+DC,SRH,DC,Bat,Amit Mishra,Feroz Shah Kotla,Delhi,114,115,SRH,3,0
+RCB,CSK,CSK,Field,Ravindra Jadeja,MA Chidambaram Stadium,Chepauk,165,166,CSK,4,0
+KKR,SRH,KKR,Bat,Gautam Gambhir,Eden Gardens,Kolkata,180,132,KKR,0,48
+Punjab,RR,RR,Field,James Faulkner,Sawai Mansingh Stadium,Jaipur,124,126,RR,6,0
+Punjab,KKR,KKR,Field,Manpreet Gony,Punjab Cricket Association Stadium,Mohali,157,153,Punjab,0,4
+DC,RCB,RCB,Field,Virat Kohli,M Chinnaswamy Stadium,Bangalore,152,152,Tied,0,0
+RR,MI,RR,Bat,Ajinkya Rahane,Sawai Mansingh Stadium,Jaipur,179,92,RR,0,87
+CSK,DC,CSK,Bat,Michael Hussey,Feroz Shah Kotla,Delhi,169,83,CSK,0,86
+Punjab,SRH,Punjab,Bat,Hanuma Vihari,Rajiv Gandhi International Stadium,Uppal,123,127,SRH,5,0
+KKR,CSK,KKR,Bat,Ravindra Jadeja,Eden Gardens,Kolkata,119,124,CSK,4,0
+RR,RCB,RCB,Field,Vinay Kumar,M Chinnaswamy Stadium,Bangalore,117,123,RCB,7,0
+MI,DC,MI,Bat,Virender Sehwag,Feroz Shah Kotla,Delhi,161,165,DC,9,0
+RR,CSK,RR,Bat,Michael Hussey,MA Chidambaram Stadium,Chepauk,185,186,CSK,5,0
+DC,Punjab,Punjab,Field,Harmeet Singh,Feroz Shah Kotla,Delhi,120,121,Punjab,5,0
+KKR,MI,KKR,Bat,Dwayne Smith,Eden Gardens,Kolkata,159,162,MI,5,0
+SRH,CSK,SRH,Bat,MS Dhoni,MA Chidambaram Stadium,Chepauk,159,160,CSK,5,0
+Punjab,KKR,Punjab,Bat,Jacques Kallis,Eden Gardens,Kolkata,149,150,KKR,6,0
+SRH,RR,SRH,Bat,James Faulkner,Sawai Mansingh Stadium,Jaipur,144,146,RR,8,0
+MI,RCB,MI,Bat,Dwayne Smith,Wankhede Stadium,Mumbai,194,136,MI,0,58
+CSK,KKR,KKR,Field,Michael Hussey,MA Chidambaram Stadium,Chepauk,200,186,CSK,0,14
+RCB,RR,RR,Field,Sanju Samson,Sawai Mansingh Stadium,Jaipur,171,173,RR,4,0
+MI,Punjab,MI,Bat,Rohit Sharma,Wankhede Stadium,Mumbai,174,170,MI,0,4
+MI,SRH,MI,Bat,Ishant Sharma,Rajiv Gandhi International Stadium,Uppal,129,130,SRH,7,0
+KKR,DC,KKR,Bat,David Warner,Shaheed Veer Narayan Singh International Stadium,Raipur,136,137,DC,7,0
+CSK,Punjab,CSK,Bat,Suresh Raina,MA Chidambaram Stadium,Chepauk,186,171,CSK,0,15
+RR,KKR,RR,Bat,Yusuf Pathan,Eden Gardens,Kolkata,132,133,KKR,8,0
+DC,SRH,DC,Bat,Daren Sammy,Rajiv Gandhi International Stadium,Uppal,80,81,SRH,6,0
+MI,CSK,MI,Bat,Mitchell Johnson,Wankhede Stadium,Mumbai,139,79,MI,0,60
+RCB,Punjab,Punjab,Field,David Miller,Punjab Cricket Association Stadium,Mohali,190,194,Punjab,6,0
+DC,RR,DC,Bat,Ajinkya Rahane,Sawai Mansingh Stadium,Jaipur,154,155,RR,9,0
+MI,KKR,MI,Bat,Sachin Tendulkar,Wankhede Stadium,Mumbai,170,105,MI,0,65
+CSK,SRH,SRH,Field,Suresh Raina,Rajiv Gandhi International Stadium,Uppal,223,146,CSK,0,77
+Punjab,RR,RR,Field,Kevon Cooper,Punjab Cricket Association Stadium,Mohali,145,147,RR,8,0
+RCB,DC,DC,Field,Jaydev Unadkat,Feroz Shah Kotla,Delhi,183,179,RCB,0,4
+SRH,Punjab,Punjab,Field,Parthiv Patel,Punjab Cricket Association Stadium,Mohali,150,120,SRH,0,30
+RCB,KKR,KKR,Field,Jacques Kallis,JSCA International Stadium Complex,Ranchi,115,116,KKR,5,0
+CSK,RR,RR,Field,Shane Watson,Sawai Mansingh Stadium,Jaipur,141,144,RR,5,0
+SRH,MI,SRH,Bat,Kieron Pollard,Wankhede Stadium,Mumbai,178,184,MI,7,0
+RCB,Punjab,Punjab,Field,Adam Gilchrist,M Chinnaswamy Stadium,Bangalore,174,176,Punjab,7,0
+CSK,DC,CSK,Bat,MS Dhoni,MA Chidambaram Stadium,Chepauk,168,135,CSK,0,33
+MI,RR,RR,Field,Aditya Tare,Wankhede Stadium,Mumbai,166,152,MI,0,14
+Punjab,DC,DC,Field,David Miller,Himachal Pradesh Cricket Association Stadium,Dharamsala,171,164,Punjab,0,7
+SRH,RR,SRH,Bat,Amit Mishra,Rajiv Gandhi International Stadium,Uppal,136,113,SRH,0,23
+Punjab,MI,MI,Field,Azhar Mahmood,Himachal Pradesh Cricket Association Stadium,Dharamsala,183,133,Punjab,0,50
+RCB,CSK,CSK,Field,Virat Kohli,M Chinnaswamy Stadium,Bangalore,106,82,RCB,0,24
+KKR,SRH,KKR,Bat,Parthiv Patel,Rajiv Gandhi International Stadium,Uppal,130,132,SRH,5,0
+CSK,MI,CSK,Bat,Michael Hussey,Feroz Shah Kotla,Delhi,192,144,CSK,0,48
+SRH,RR,SRH,Bat,Brad Hodge,Feroz Shah Kotla,Delhi,132,135,RR,4,0
+RR,MI,RR,Bat,Harbhajan Singh,Eden Gardens,Kolkata,165,169,MI,4,0
+MI,CSK,MI,Bat,Kieron Pollard,Eden Gardens,Kolkata,148,125,MI,0,23
+CSK,MI,MI,Field,Richard Levi,MA Chidambaram Stadium,Chepauk,112,115,MI,8,0
+KKR,DC,DC,Field,Irfan Pathan,Eden Gardens,Kolkata,97,100,DC,8,0
+RR,Punjab,Punjab,Field,Ajinkya Rahane,Sawai Mansingh Stadium,Jaipur,191,160,RR,0,31
+RCB,DC,DC,Field,AB de Villiers,M Chinnaswamy Stadium,Bangalore,157,137,RCB,0,20
+CSK,SRH,SRH,Field,Ravindra Jadeja,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,193,119,CSK,0,74
+RR,KKR,KKR,Field,Brad Hodge,Sawai Mansingh Stadium,Jaipur,164,142,RR,0,22
+SRH,MI,SRH,Bat,Rohit Sharma,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,138,142,MI,5,0
+KKR,RCB,RCB,Field,Lakshmipathy Balaji,M Chinnaswamy Stadium,Bangalore,165,123,KKR,0,42
+CSK,DC,DC,Field,Morne Morkel,Feroz Shah Kotla,Delhi,110,111,DC,8,0
+MI,RR,RR,Field,Kieron Pollard,Wankhede Stadium,Mumbai,197,170,MI,0,27
+RCB,CSK,RCB,Bat,Faf du Plessis,MA Chidambaram Stadium,Chepauk,205,208,CSK,5,0
+RR,KKR,RR,Bat,Shakib Al Hasan,Eden Gardens,Kolkata,131,137,KKR,5,0
+Punjab,KKR,KKR,Field,Sunil Narine,Eden Gardens,Kolkata,134,132,Punjab,0,2
+RR,RCB,RR,Bat,Ajinkya Rahane,M Chinnaswamy Stadium,Bangalore,195,136,RR,0,59
+MI,DC,DC,Field,Shahbaz Nadeem,Wankhede Stadium,Mumbai,92,93,DC,7,0
+SRH,RR,SRH,Bat,Brad Hodge,Sawai Mansingh Stadium,Jaipur,196,197,RR,5,0
+Punjab,KKR,Punjab,Bat,Gautam Gambhir,Punjab Cricket Association Stadium,Mohali,124,127,KKR,8,0
+SRH,DC,SRH,Bat,Kevin Pietersen,Feroz Shah Kotla,Delhi,157,162,DC,5,0
+Punjab,RCB,RCB,Field,Chris Gayle,Punjab Cricket Association Stadium,Mohali,163,166,RCB,5,0
+RR,CSK,RR,Bat,Faf du Plessis,MA Chidambaram Stadium,Chepauk,146,147,CSK,7,0
+MI,Punjab,MI,Bat,Shaun Marsh,Wankhede Stadium,Mumbai,163,164,Punjab,6,0
+SRH,KKR,KKR,Field,Brett Lee,Barabati Stadium,Cuttack,126,127,KKR,5,0
+RCB,RR,RR,Field,AB de Villiers,Sawai Mansingh Stadium,Jaipur,189,143,RCB,0,46
+Punjab,MI,Punjab,Bat,Ambati Rayudu,Punjab Cricket Association Stadium,Mohali,168,171,MI,4,0
+DC,MI,MI,Field,Virender Sehwag,Feroz Shah Kotla,Delhi,207,170,DC,0,37
+Punjab,CSK,Punjab,Bat,Mandeep Singh,MA Chidambaram Stadium,Chepauk,156,149,Punjab,0,7
+KKR,RCB,KKR,Bat,Gautam Gambhir,Eden Gardens,Kolkata,190,143,KKR,0,47
+DC,RR,DC,Bat,Virender Sehwag,Feroz Shah Kotla,Delhi,152,151,DC,0,1
+SRH,MI,MI,Field,Dale Steyn,Wankhede Stadium,Mumbai,100,101,MI,5,0
+CSK,KKR,CSK,Bat,Gautam Gambhir,MA Chidambaram Stadium,Chepauk,139,140,KKR,5,0
+RR,DC,RR,Bat,Pawan Negi,Sawai Mansingh Stadium,Jaipur,141,144,DC,6,0
+RCB,Punjab,Punjab,Field,Azhar Mahmood,M Chinnaswamy Stadium,Bangalore,158,163,Punjab,4,0
+CSK,SRH,CSK,Bat,Suresh Raina,MA Chidambaram Stadium,Chepauk,160,150,CSK,0,10
+RR,Punjab,RR,Bat,Shane Watson,Punjab Cricket Association Stadium,Mohali,177,134,RR,0,43
+CSK,MI,MI,Field,Dwayne Smith,Wankhede Stadium,Mumbai,173,174,MI,2,0
+SRH,RCB,RCB,Field,AB de Villiers,M Chinnaswamy Stadium,Bangalore,181,185,RCB,5,0
+DC,KKR,DC,Bat,Jacques Kallis,Feroz Shah Kotla,Delhi,153,154,KKR,6,0
+Punjab,SRH,SRH,Field,Mandeep Singh,Rajiv Gandhi International Stadium,Uppal,170,145,Punjab,0,25
+MI,RCB,RCB,Field,Chris Gayle,Wankhede Stadium,Mumbai,141,142,RCB,9,0
+SRH,DC,SRH,Bat,David Warner,Rajiv Gandhi International Stadium,Uppal,187,193,DC,9,0
+RR,CSK,CSK,Field,Ben Hilfenhaus,Sawai Mansingh Stadium,Jaipur,126,127,CSK,4,0
+MI,KKR,MI,Bat,Rohit Sharma,Eden Gardens,Kolkata,182,155,MI,0,27
+DC,CSK,CSK,Field,Ben Hilfenhaus,MA Chidambaram Stadium,Chepauk,114,115,CSK,9,0
+SRH,Punjab,SRH,Bat,David Hussey,Punjab Cricket Association Stadium,Mohali,190,194,Punjab,4,0
+RCB,MI,MI,Field,Ambati Rayudu,M Chinnaswamy Stadium,Bangalore,171,173,MI,5,0
+KKR,CSK,CSK,Field,Michael Hussey,Eden Gardens,Kolkata,158,160,CSK,5,0
+Punjab,DC,Punjab,Bat,Umesh Yadav,Feroz Shah Kotla,Delhi,136,140,DC,5,0
+KKR,MI,MI,Field,Sunil Narine,Wankhede Stadium,Mumbai,140,108,KKR,0,32
+CSK,Punjab,Punjab,Field,Adam Gilchrist,Himachal Pradesh Cricket Association Stadium,Dharamsala,120,123,Punjab,6,0
+RCB,DC,DC,Field,Chris Gayle,Feroz Shah Kotla,Delhi,215,194,RCB,0,21
+RR,SRH,RR,Bat,Dale Steyn,Rajiv Gandhi International Stadium,Uppal,126,128,SRH,5,0
+Punjab,DC,DC,Field,Umesh Yadav,Himachal Pradesh Cricket Association Stadium,Dharamsala,141,145,DC,6,0
+SRH,RCB,RCB,Field,Dale Steyn,Rajiv Gandhi International Stadium,Uppal,132,123,SRH,0,9
+RR,MI,RR,Bat,Dwayne Smith,Sawai Mansingh Stadium,Jaipur,162,163,MI,10,0
+KKR,DC,KKR,Bat,Yusuf Pathan,Subrata Roy Sahara Stadium,Pune,162,144,KKR,0,18
+CSK,MI,MI,Field,MS Dhoni,M Chinnaswamy Stadium,Bangalore,187,149,CSK,0,38
+CSK,DC,DC,Field,Murali Vijay,MA Chidambaram Stadium,Chepauk,222,136,CSK,0,86
+CSK,KKR,CSK,Bat,Manvinder  Bisla,MA Chidambaram Stadium,Chepauk,190,192,KKR,5,0
+CSK,KKR,CSK,Bat,Srikkanth Anirudha,MA Chidambaram Stadium,Chepauk,153,151,CSK,0,2
+SRH,RR,RR,Field,Siddharth Trivedi,Rajiv Gandhi International Stadium,Uppal,137,141,RR,8,0
+DC,MI,DC,Bat,Lasith Malinga,Feroz Shah Kotla,Delhi,95,99,MI,8,0
+KKR,SRH,KKR,Bat,Jacques Kallis,Eden Gardens,Kolkata,163,154,KKR,0,9
+DC,RR,DC,Bat,Shane Warne,Sawai Mansingh Stadium,Jaipur,151,152,RR,6,0
+RCB,MI,MI,Field,Sachin Tendulkar,M Chinnaswamy Stadium,Bangalore,140,143,MI,9,0
+CSK,Punjab,Punjab,Field,Paul Valthaty,Punjab Cricket Association Stadium,Mohali,188,193,Punjab,6,0
+RR,KKR,KKR,Field,Gautam Gambhir,Sawai Mansingh Stadium,Jaipur,159,160,KKR,9,0
+CSK,RCB,CSK,Bat,Michael Hussey,MA Chidambaram Stadium,Chepauk,183,162,CSK,0,21
+RR,KKR,KKR,Field,Lakshmipathy Balaji,Eden Gardens,Kolkata,81,85,KKR,8,0
+Punjab,RR,RR,Field,Shaun Marsh,Punjab Cricket Association Stadium,Mohali,195,147,Punjab,0,48
+KKR,RCB,RCB,Field,Chris Gayle,Eden Gardens,Kolkata,171,175,RCB,9,0
+MI,CSK,CSK,Field,Harbhajan Singh,Wankhede Stadium,Mumbai,164,156,MI,0,8
+DC,Punjab,Punjab,Field,David Warner,Feroz Shah Kotla,Delhi,231,202,DC,0,29
+DC,RCB,RCB,Field,Virat Kohli,Feroz Shah Kotla,Delhi,160,161,RCB,3,0
+KKR,DC,DC,Field,Manoj Tiwary,Feroz Shah Kotla,Delhi,148,131,KKR,0,17
+MI,RR,RR,Field,Johan Botha,Sawai Mansingh Stadium,Jaipur,94,95,RR,7,0
+Punjab,KKR,KKR,Field,Iqbal Abdulla,Eden Gardens,Kolkata,119,120,KKR,8,0
+MI,Punjab,Punjab,Field,Kieron Pollard,Wankhede Stadium,Mumbai,159,136,MI,0,23
+KKR,SRH,SRH,Field,Yusuf Pathan,Rajiv Gandhi International Stadium,Uppal,169,149,KKR,0,20
+RR,CSK,RR,Bat,Michael Hussey,MA Chidambaram Stadium,Chepauk,147,149,CSK,8,0
+RCB,Punjab,Punjab,Field,Chris Gayle,M Chinnaswamy Stadium,Bangalore,205,120,RCB,0,85
+CSK,KKR,CSK,Bat,Iqbal Abdulla,Eden Gardens,Kolkata,114,61,KKR,0,10
+MI,DC,DC,Field,Ambati Rayudu,Wankhede Stadium,Mumbai,178,146,MI,0,32
+CSK,RR,RR,Field,Murali Vijay,Sawai Mansingh Stadium,Jaipur,196,133,CSK,0,63
+Punjab,MI,MI,Field,Bhargav Bhatt,Punjab Cricket Association Stadium,Mohali,163,87,Punjab,0,76
+RR,RCB,RCB,Field,Sreenath Aravind,Sawai Mansingh Stadium,Jaipur,146,151,RCB,9,0
+CSK,DC,CSK,Bat,MS Dhoni,MA Chidambaram Stadium,Chepauk,176,158,CSK,0,18
+KKR,RCB,RCB,Field,Chris Gayle,M Chinnaswamy Stadium,Bangalore,104,105,RCB,4,0
+SRH,MI,SRH,Bat,Amit Mishra,Wankhede Stadium,Mumbai,135,125,SRH,0,10
+Punjab,DC,DC,Field,Piyush Chawla,Himachal Pradesh Cricket Association Stadium,Dharamsala,170,141,Punjab,0,29
+Punjab,RCB,Punjab,Bat,Adam Gilchrist,Himachal Pradesh Cricket Association Stadium,Dharamsala,232,121,Punjab,0,111
+MI,RR,MI,Bat,Shane Watson,Wankhede Stadium,Mumbai,133,134,RR,10,0
+SRH,Punjab,Punjab,Field,Shikhar Dhawan,Himachal Pradesh Cricket Association Stadium,Dharamsala,198,116,SRH,0,82
+CSK,RCB,RCB,Field,Chris Gayle,M Chinnaswamy Stadium,Bangalore,128,129,RCB,8,0
+KKR,MI,MI,Field,James Franklin,Eden Gardens,Kolkata,175,178,MI,5,0
+RCB,CSK,CSK,Field,Suresh Raina,Wankhede Stadium,Mumbai,175,177,CSK,6,0
+KKR,MI,MI,Field,Munaf Patel,Wankhede Stadium,Mumbai,147,148,MI,4,0
+RCB,MI,MI,Field,Chris Gayle,MA Chidambaram Stadium,Chepauk,185,142,RCB,0,43
+CSK,RCB,CSK,Bat,Murali Vijay,MA Chidambaram Stadium,Chepauk,205,147,CSK,0,58
+KKR,SRH,SRH,Field,Angelo Mathews,Dr DY Patil Sports Academy,Mumbai,161,150,KKR,0,11
+MI,RR,MI,Bat,Yusuf Pathan,Brabourne Stadium,Mumbai,212,208,MI,0,4
+Punjab,DC,DC,Field,Gautam Gambhir,Punjab Cricket Association Stadium,Mohali,142,146,DC,5,0
+RCB,KKR,KKR,Field,Manoj Tiwary,Eden Gardens,Kolkata,135,136,KKR,7,0
+SRH,CSK,SRH,Bat,Chaminda Vaas,MA Chidambaram Stadium,Chepauk,190,159,SRH,0,31
+RR,DC,DC,Field,Virender Sehwag,Sardar Patel Stadium,Motera,141,142,DC,6,0
+Punjab,RCB,Punjab,Bat,Jacques Kallis,M Chinnaswamy Stadium,Bangalore,203,204,RCB,8,0
+CSK,KKR,CSK,Bat,MS Dhoni,Eden Gardens,Kolkata,164,109,CSK,0,55
+MI,DC,DC,Field,Sachin Tendulkar,Feroz Shah Kotla,Delhi,218,120,MI,0,98
+RR,RCB,RCB,Field,Jacques Kallis,M Chinnaswamy Stadium,Bangalore,92,93,RCB,10,0
+DC,CSK,DC,Bat,Matthew Hayden,Feroz Shah Kotla,Delhi,185,190,CSK,5,0
+SRH,Punjab,Punjab,Field,Andrew Symonds,Barabati Stadium,Cuttack,170,164,SRH,0,6
+RR,KKR,RR,Bat,Abhishek Jhunjhunwala,Sardar Patel Stadium,Motera,168,134,RR,0,34
+MI,RCB,MI,Bat,Jacques Kallis,Brabourne Stadium,Mumbai,151,155,RCB,7,0
+SRH,DC,SRH,Bat,Andrew Symonds,Barabati Stadium,Cuttack,171,161,SRH,0,10
+Punjab,CSK,CSK,Field,Rusty Theron,MA Chidambaram Stadium,Chepauk,136,136,Tied,0,0
+KKR,MI,KKR,Bat,Sachin Tendulkar,Brabourne Stadium,Mumbai,155,156,MI,7,0
+RCB,CSK,CSK,Field,Robin Uthappa,M Chinnaswamy Stadium,Bangalore,171,135,RCB,0,36
+RR,Punjab,Punjab,Field,Adam Voges,Punjab Cricket Association Stadium,Mohali,183,152,RR,0,31
+DC,RCB,RCB,Field,Kedar Jadhav,M Chinnaswamy Stadium,Bangalore,183,166,DC,0,17
+CSK,MI,MI,Field,Sachin Tendulkar,Brabourne Stadium,Mumbai,180,181,MI,5,0
+SRH,RR,SRH,Bat,Yusuf Pathan,Sardar Patel Stadium,Motera,148,151,RR,8,0
+KKR,Punjab,KKR,Bat,Manoj Tiwary,Punjab Cricket Association Stadium,Mohali,183,144,KKR,0,39
+RR,CSK,RR,Bat,Naman Ojha,Sardar Patel Stadium,Motera,177,160,RR,0,17
+MI,SRH,SRH,Field,Harbhajan Singh,Dr DY Patil Sports Academy,Mumbai,172,131,MI,0,41
+DC,KKR,DC,Bat,David Warner,Feroz Shah Kotla,Delhi,177,137,DC,0,40
+Punjab,MI,MI,Field,Lasith Malinga,Brabourne Stadium,Mumbai,163,164,MI,4,0
+RCB,CSK,RCB,Bat,Murali Vijay,MA Chidambaram Stadium,Chepauk,161,162,CSK,5,0
+DC,RR,DC,Bat,Dinesh Karthik,Feroz Shah Kotla,Delhi,188,121,DC,0,67
+KKR,SRH,KKR,Bat,Sourav Ganguly,Eden Gardens,Kolkata,181,157,KKR,0,24
+Punjab,RCB,Punjab,Bat,Kevin Pietersen,Punjab Cricket Association Stadium,Mohali,181,184,RCB,6,0
+CSK,RR,CSK,Bat,Murali Vijay,MA Chidambaram Stadium,Chepauk,246,223,CSK,0,23
+MI,SRH,MI,Bat,Ambati Rayudu,Brabourne Stadium,Mumbai,178,115,MI,0,63
+KKR,Punjab,KKR,Bat,Mahela Jayawardene,Eden Gardens,Kolkata,200,204,Punjab,8,0
+DC,RCB,DC,Bat,Paul Collingwood,Feroz Shah Kotla,Delhi,184,147,DC,0,37
+RR,SRH,RR,Bat,Shane Warne,Vidarbha Cricket Association Stadium,Jamtha,159,157,RR,0,2
+CSK,MI,CSK,Bat,Suresh Raina,MA Chidambaram Stadium,Chepauk,165,141,CSK,0,24
+Punjab,RR,Punjab,Bat,Michael Lumb,Sawai Mansingh Stadium,Jaipur,153,157,RR,9,0
+KKR,DC,KKR,Bat,Sourav Ganguly,Eden Gardens,Kolkata,181,167,KKR,0,14
+RCB,SRH,SRH,Field,Tirumalasetti Suman,M Chinnaswamy Stadium,Bangalore,184,186,SRH,7,0
+MI,Punjab,MI,Bat,Kumar Sangakkara,Punjab Cricket Association Stadium,Mohali,154,158,Punjab,6,0
+CSK,SRH,CSK,Bat,Ryan Harris,Vidarbha Cricket Association Stadium,Jamtha,138,139,SRH,6,0
+KKR,RCB,RCB,Field,Vinay Kumar,M Chinnaswamy Stadium,Bangalore,160,162,RCB,7,0
+DC,Punjab,DC,Bat,Piyush Chawla,Feroz Shah Kotla,Delhi,111,112,Punjab,7,0
+MI,RR,RR,Field,Sachin Tendulkar,Sawai Mansingh Stadium,Jaipur,174,137,MI,0,37
+SRH,RCB,RCB,Field,Harmeet Singh,Vidarbha Cricket Association Stadium,Jamtha,151,138,SRH,0,13
+MI,DC,MI,Bat,Kieron Pollard,Brabourne Stadium,Mumbai,183,144,MI,0,39
+KKR,CSK,KKR,Bat,Ravichandran Ashwin,MA Chidambaram Stadium,Chepauk,139,143,CSK,9,0
+RR,RCB,RR,Bat,Kevin Pietersen,Sawai Mansingh Stadium,Jaipur,130,132,RCB,5,0
+CSK,DC,CSK,Bat,Gautam Gambhir,MA Chidambaram Stadium,Chepauk,112,113,DC,6,0
+Punjab,SRH,SRH,Field,Rohit Sharma,Himachal Pradesh Cricket Association Stadium,Dharamsala,174,178,SRH,5,0
+MI,RCB,RCB,Field,Ryan McLaren,M Chinnaswamy Stadium,Bangalore,191,134,MI,0,57
+RR,KKR,RR,Bat,Jaydev Unadkat,Eden Gardens,Kolkata,132,133,KKR,8,0
+Punjab,CSK,CSK,Field,MS Dhoni,Himachal Pradesh Cricket Association Stadium,Dharamsala,192,195,CSK,6,0
+SRH,DC,SRH,Bat,Andrew Symonds,Feroz Shah Kotla,Delhi,145,134,SRH,0,11
+MI,KKR,MI,Bat,Murali Kartik,Eden Gardens,Kolkata,133,135,KKR,9,0
+MI,RCB,MI,Bat,Kieron Pollard,Dr DY Patil Sports Academy,Mumbai,184,149,MI,0,35
+CSK,SRH,CSK,Bat,Doug Bollinger,Dr DY Patil Sports Academy,Mumbai,142,104,CSK,0,38
+SRH,RCB,SRH,Bat,Anil Kumble,Dr DY Patil Sports Academy,Mumbai,82,86,RCB,9,0
+CSK,MI,CSK,Bat,Suresh Raina,Dr DY Patil Sports Academy,Mumbai,168,146,CSK,0,22
+MI,CSK,CSK,Field,Sachin Tendulkar,Newlands,Cape Town,165,146,MI,0,19
+RCB,RR,RCB,Bat,Rahul Dravid,Newlands,Cape Town,133,58,RCB,0,75
+Punjab,DC,DC,Field,Daniel Vettori,Newlands,Cape Town,57,58,DC,10,0
+KKR,SRH,KKR,Bat,RP Singh,Newlands,Cape Town,101,104,SRH,8,0
+CSK,RCB,CSK,Bat,Muthiah Muralidaran,St George's Park,Port Elizabeth,179,87,CSK,0,92
+Punjab,KKR,KKR,Field,Chris Gayle,Kingsmead,Durban,158,79,KKR,0,11
+SRH,RCB,SRH,Bat,Adam Gilchrist,Newlands,Cape Town,184,160,SRH,0,24
+DC,CSK,DC,Bat,AB de Villiers,Kingsmead,Durban,189,180,DC,0,9
+RR,KKR,KKR,Field,Yusuf Pathan,Newlands,Cape Town,150,150,Tied,0,0
+RCB,Punjab,RCB,Bat,Ravi Bopara,Kingsmead,Durban,168,173,Punjab,7,0
+SRH,MI,SRH,Bat,Pragyan Ojha,Kingsmead,Durban,168,156,SRH,0,12
+RCB,DC,RCB,Bat,Tillakaratne Dilshan,St George's Park,Port Elizabeth,149,150,DC,6,0
+Punjab,RR,Punjab,Bat,Kumar Sangakkara,Newlands,Cape Town,139,112,Punjab,0,27
+CSK,SRH,SRH,Field,Herschelle Gibbs,Kingsmead,Durban,165,169,SRH,6,0
+MI,KKR,MI,Bat,Sachin Tendulkar,St George's Park,Port Elizabeth,187,95,MI,0,92
+DC,RR,DC,Bat,Yusuf Pathan,SuperSport Park,Centurion,143,147,RR,5,0
+KKR,RCB,KKR,Bat,Mark Boucher,Kingsmead,Durban,139,143,RCB,5,0
+Punjab,MI,Punjab,Bat,Kumar Sangakkara,Kingsmead,Durban,119,116,Punjab,0,3
+SRH,DC,DC,Field,Dirk Nannes,SuperSport Park,Centurion,148,150,DC,6,0
+CSK,RR,RR,Field,Suresh Raina,SuperSport Park,Centurion,164,126,CSK,0,38
+MI,KKR,MI,Bat,Jean-Paul Duminy,Buffalo Park,East London,148,139,MI,0,9
+RCB,Punjab,RCB,Bat,Yuvraj Singh,Kingsmead,Durban,145,137,RCB,0,8
+SRH,RR,SRH,Bat,Yusuf Pathan,St George's Park,Port Elizabeth,141,142,RR,3,0
+CSK,DC,DC,Field,Shadab Jakati,New Wanderers Stadium,Johannesburg,163,145,CSK,0,18
+KKR,Punjab,KKR,Bat,Mahela Jayawardene,St George's Park,Port Elizabeth,153,154,Punjab,6,0
+MI,RCB,MI,Bat,Jacques Kallis,New Wanderers Stadium,Johannesburg,149,150,RCB,9,0
+CSK,SRH,CSK,Bat,MS Dhoni,Buffalo Park,East London,178,100,CSK,0,78
+RR,Punjab,Punjab,Field,Graeme Smith,Kingsmead,Durban,211,133,RR,0,78
+KKR,DC,KKR,Bat,Gautam Gambhir,Kingsmead,Durban,154,157,DC,9,0
+SRH,MI,SRH,Bat,Rohit Sharma,SuperSport Park,Centurion,145,126,SRH,0,19
+RCB,RR,RR,Field,Amit Singh,SuperSport Park,Centurion,105,107,RR,7,0
+CSK,Punjab,CSK,Bat,Matthew Hayden,SuperSport Park,Centurion,186,174,CSK,0,12
+MI,DC,MI,Bat,Ashish Nehra,Buffalo Park,East London,116,118,DC,7,0
+SRH,Punjab,Punjab,Field,Mahela Jayawardene,De Beers Diamond Oval,Kimberley,168,169,Punjab,3,0
+RR,CSK,RR,Bat,S Badrinath,De Beers Diamond Oval,Kimberley,140,141,CSK,7,0
+MI,RCB,MI,Bat,Jean-Paul Duminy,St George's Park,Port Elizabeth,157,141,MI,0,16
+KKR,DC,DC,Field,Amit Mishra,New Wanderers Stadium,Johannesburg,123,125,DC,7,0
+SRH,RR,SRH,Bat,Dwayne Smith,De Beers Diamond Oval,Kimberley,166,113,SRH,0,53
+KKR,RCB,RCB,Field,Ross Taylor,SuperSport Park,Centurion,173,176,RCB,6,0
+Punjab,MI,Punjab,Bat,Harbhajan Singh,SuperSport Park,Centurion,119,122,MI,8,0
+DC,SRH,SRH,Field,Rajat Bhatia,Kingsmead,Durban,173,161,DC,0,12
+CSK,RCB,CSK,Bat,Ross Taylor,Kingsmead,Durban,129,132,RCB,2,0
+RR,MI,RR,Bat,Shane Warne,Kingsmead,Durban,145,143,RR,0,2
+DC,Punjab,Punjab,Field,Brett Lee,OUTsurance Oval,Bloemfontein,120,123,Punjab,6,0
+MI,CSK,MI,Bat,Matthew Hayden,St George's Park,Port Elizabeth,147,151,CSK,7,0
+KKR,SRH,SRH,Field,Rohit Sharma,New Wanderers Stadium,Johannesburg,160,166,SRH,6,0
+Punjab,SRH,SRH,Field,Yuvraj Singh,New Wanderers Stadium,Johannesburg,134,133,Punjab,0,1
+DC,RR,DC,Bat,AB de Villiers,OUTsurance Oval,Bloemfontein,150,136,DC,0,14
+CSK,KKR,CSK,Bat,Brad Hodge,SuperSport Park,Centurion,188,189,KKR,7,0
+DC,RCB,DC,Bat,Jacques Kallis,New Wanderers Stadium,Johannesburg,134,135,RCB,7,0
+RR,KKR,KKR,Field,Laxmi Shukla,Kingsmead,Durban,101,102,KKR,4,0
+CSK,Punjab,CSK,Bat,Muthiah Muralidaran,Kingsmead,Durban,116,92,CSK,0,24
+MI,DC,DC,Field,Virender Sehwag,SuperSport Park,Centurion,165,166,DC,4,0
+RCB,SRH,RCB,Bat,Manish Pandey,SuperSport Park,Centurion,170,158,RCB,0,12
+DC,SRH,SRH,Field,Adam Gilchrist,SuperSport Park,Centurion,153,154,SRH,6,0
+CSK,RCB,RCB,Field,Manish Pandey,New Wanderers Stadium,Johannesburg,146,149,RCB,6,0
+SRH,RCB,RCB,Field,Anil Kumble,New Wanderers Stadium,Johannesburg,143,137,SRH,0,6
+KKR,RCB,RCB,Field,Brendon McCullum,M Chinnaswamy Stadium,Bangalore,222,82,KKR,0,140
+CSK,Punjab,CSK,Bat,Michael Hussey,Punjab Cricket Association Stadium,Mohali,240,207,CSK,0,33
+RR,DC,RR,Bat,Farveez Maharoof,Feroz Shah Kotla,Delhi,129,132,DC,9,0
+SRH,KKR,SRH,Bat,David Hussey,Eden Gardens,Kolkata,110,112,KKR,5,0
+MI,RCB,MI,Bat,Mark Boucher,Wankhede Stadium,Mumbai,165,166,RCB,5,0
+Punjab,RR,Punjab,Bat,Shane Watson,Sawai Mansingh Stadium,Jaipur,166,168,RR,6,0
+SRH,DC,SRH,Bat,Virender Sehwag,Rajiv Gandhi International Stadium,Uppal,142,143,DC,9,0
+CSK,MI,MI,Field,Matthew Hayden,MA Chidambaram Stadium,Chepauk,208,202,CSK,0,6
+SRH,RR,RR,Field,Yusuf Pathan,Rajiv Gandhi International Stadium,Uppal,214,217,RR,3,0
+Punjab,MI,MI,Field,Kumar Sangakkara,Punjab Cricket Association Stadium,Mohali,182,116,Punjab,0,66
+KKR,CSK,KKR,Bat,Jacob Oram,MA Chidambaram Stadium,Chepauk,147,152,CSK,9,0
+RCB,RR,RR,Field,Shane Watson,M Chinnaswamy Stadium,Bangalore,135,138,RR,7,0
+DC,Punjab,DC,Bat,Simon Katich,Punjab Cricket Association Stadium,Mohali,158,162,Punjab,4,0
+MI,SRH,SRH,Field,Adam Gilchrist,Dr DY Patil Sports Academy,Mumbai,154,155,SRH,10,0
+CSK,RCB,CSK,Bat,MS Dhoni,M Chinnaswamy Stadium,Bangalore,178,165,CSK,0,13
+KKR,MI,KKR,Bat,Sanath Jayasuriya,Eden Gardens,Kolkata,137,138,MI,7,0
+DC,RCB,RCB,Field,Glenn McGrath,Feroz Shah Kotla,Delhi,191,181,DC,0,10
+RR,KKR,RR,Bat,Swapnil Asnodkar,Sawai Mansingh Stadium,Jaipur,196,151,RR,0,45
+SRH,Punjab,Punjab,Field,Shaun Marsh,Rajiv Gandhi International Stadium,Uppal,164,167,Punjab,7,0
+CSK,DC,CSK,Bat,Virender Sehwag,MA Chidambaram Stadium,Chepauk,169,172,DC,8,0
+RCB,SRH,SRH,Field,Praveen Kumar,M Chinnaswamy Stadium,Bangalore,156,153,RCB,0,3
+Punjab,KKR,Punjab,Bat,Irfan Pathan,Punjab Cricket Association Stadium,Mohali,178,169,Punjab,0,9
+MI,DC,DC,Field,Shaun Pollock,Dr DY Patil Sports Academy,Mumbai,162,133,MI,0,29
+CSK,RR,CSK,Bat,Sohail Tanvir,Sawai Mansingh Stadium,Jaipur,109,110,RR,8,0
+RCB,Punjab,Punjab,Field,Sreesanth,M Chinnaswamy Stadium,Bangalore,126,127,Punjab,6,0
+CSK,SRH,SRH,Field,Adam Gilchrist,MA Chidambaram Stadium,Chepauk,144,148,SRH,7,0
+RR,MI,MI,Field,Ashish Nehra,Dr DY Patil Sports Academy,Mumbai,103,104,MI,7,0
+DC,CSK,CSK,Field,MS Dhoni,Feroz Shah Kotla,Delhi,187,188,CSK,4,0
+KKR,RCB,KKR,Bat,Sourav Ganguly,Eden Gardens,Kolkata,119,124,KKR,0,5
+SRH,RR,RR,Field,Yusuf Pathan,Sawai Mansingh Stadium,Jaipur,140,141,RR,8,0
+CSK,Punjab,Punjab,Field,Lakshmipathy Balaji,MA Chidambaram Stadium,Chepauk,181,163,CSK,0,18
+KKR,SRH,KKR,Bat,Sourav Ganguly,Rajiv Gandhi International Stadium,Uppal,204,181,KKR,0,23
+DC,RR,RR,Field,Shane Watson,Sawai Mansingh Stadium,Jaipur,156,159,RR,3,0
+RCB,Punjab,RCB,Bat,Shaun Marsh,Punjab Cricket Association Stadium,Mohali,143,144,Punjab,9,0
+KKR,DC,KKR,Bat,Shoaib Akhtar,Eden Gardens,Kolkata,133,110,KKR,0,23
+CSK,MI,MI,Field,Sanath Jayasuriya,Wankhede Stadium,Mumbai,156,158,MI,9,0
+DC,SRH,SRH,Field,Amit Mishra,Feroz Shah Kotla,Delhi,194,182,DC,0,12
+KKR,MI,MI,Field,Shaun Pollock,Wankhede Stadium,Mumbai,67,68,MI,8,0
+RR,RCB,RCB,Field,Graeme Smith,Sawai Mansingh Stadium,Jaipur,197,132,RR,0,65
+DC,Punjab,DC,Bat,Mahela Jayawardene,Feroz Shah Kotla,Delhi,88,94,Punjab,0,6
+KKR,CSK,KKR,Bat,Makhaya Ntini,Eden Gardens,Kolkata,149,55,CSK,0,3
+MI,SRH,SRH,Field,Dwayne Bravo,Rajiv Gandhi International Stadium,Uppal,178,153,MI,0,25
+RCB,DC,DC,Field,Shreevats Goswami,M Chinnaswamy Stadium,Bangalore,154,158,DC,5,0
+KKR,RR,RR,Field,Yusuf Pathan,Eden Gardens,Kolkata,147,150,RR,6,0
+Punjab,MI,MI,Field,Shaun Marsh,Wankhede Stadium,Mumbai,189,188,Punjab,0,1
+RCB,CSK,RCB,Bat,Anil Kumble,MA Chidambaram Stadium,Chepauk,126,112,RCB,0,14
+SRH,Punjab,Punjab,Field,Shaun Marsh,Punjab Cricket Association Stadium,Mohali,175,178,Punjab,6,0
+RR,CSK,RR,Bat,Albie Morkel,MA Chidambaram Stadium,Chepauk,211,201,RR,0,10
+MI,DC,DC,Field,Dinesh Karthik,Feroz Shah Kotla,Delhi,176,179,DC,5,0
+SRH,RCB,SRH,Bat,Vinay Kumar,Rajiv Gandhi International Stadium,Uppal,165,171,RCB,5,0
+Punjab,KKR,Punjab,Bat,Umar Gul,Eden Gardens,Kolkata,174,175,KKR,3,0
+MI,RR,RR,Field,Sohail Tanvir,Sawai Mansingh Stadium,Jaipur,145,146,RR,5,0
+SRH,CSK,SRH,Bat,Suresh Raina,Rajiv Gandhi International Stadium,Uppal,147,148,CSK,7,0
+RCB,MI,MI,Field,Dilhara Fernando,M Chinnaswamy Stadium,Bangalore,125,126,MI,9,0
+Punjab,RR,RR,Field,Shaun Marsh,Punjab Cricket Association Stadium,Mohali,221,180,Punjab,0,41
+RR,DC,DC,Field,Shane Watson,Wankhede Stadium,Mumbai,192,87,RR,0,105
+Punjab,CSK,Punjab,Bat,Makhaya Ntini,Wankhede Stadium,Mumbai,112,116,CSK,9,0
+CSK,RR,RR,Field,Yusuf Pathan,Dr DY Patil Sports Academy,Mumbai,163,164,RR,3,0
+LSG,GT,GT,Field,Mohammed Shami,Wankhede Stadium,Mumbai,158,161,GT,5,0
+Punjab,GT,GT,Field,Shubman Gill,Brabourne Stadium,Mumbai,189,190,GT,6,0
+CSK,GT,GT,Field,David Miller,Maharashtra Cricket Association Stadium,Pune,169,170,GT,3,0
+SRH,GT,GT,Field,Umran Malik,Wankhede Stadium,Mumbai,195,199,GT,5,0
+RCB,GT,RCB,Bat,Rahul Tewatia,Brabourne Stadium,Mumbai,170,174,GT,6,0
+MI,GT,GT,Field,Tim David,Brabourne Stadium,Mumbai,177,172,MI,0,5
+CSK,GT,CSK,Bat,Wriddhiman Saha,Wankhede Stadium,Mumbai,133,137,GT,7,0
+RR,GT,GT,Field,David Miller,Eden Gardens,Kolkata,188,191,GT,7,0
+RR,GT,RR,Bat,Hardik Pandya,Narendra Modi Stadium,Ahmedabad,130,133,GT,7,0
+GT,DC,DC,Field,Lockie Ferguson,Maharashtra Cricket Association Stadium,Pune,171,157,GT,0,14
+GT,SRH,SRH,Field,Kane Williamson,Dr DY Patil Sports Academy,Mumbai,162,168,SRH,8,0
+GT,RR,RR,Field,Hardik Pandya,Dr DY Patil Sports Academy,Mumbai,192,155,GT,0,37
+GT,KKR,GT,Bat,Rashid Khan,Dr DY Patil Sports Academy,Mumbai,156,148,GT,0,8
+GT,Punjab,GT,Bat,Kagiso Rabada,Dr DY Patil Sports Academy,Mumbai,143,145,Punjab,8,0
+GT,LSG,GT,Bat,Shubman Gill,Maharashtra Cricket Association Stadium,Pune,144,82,GT,0,62
+GT,RCB,GT,Bat,Virat Kohli,Wankhede Stadium,Mumbai,168,170,RCB,8,0
